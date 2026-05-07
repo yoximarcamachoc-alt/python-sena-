@@ -1,0 +1,261 @@
+﻿ID_Cliente,Edad,IngresoMensual,CantidadCompras,Ciudad,Genero,Segmento,NivelSatisfaccion,AntiguedadMeses,DiasUltimaCompra,GastoPromedio,CanalPreferido,Compra
+C1000,22,2235000,7,Bucaramanga,Femenino,Básico,Bajo,14,102,90000,WhatsApp,0
+C1001,55,1965000,6,Medellín,Masculino,Premium,Bajo,61,90,70000,App móvil,0
+C1002,49,2501000,4,Bogotá,Masculino,Medio,Medio,38,100,320000,App móvil,0
+C1003,39,1604000,4,Bucaramanga,Femenino,Medio,Bajo,34,23,130000,App móvil,1
+C1004,38,3967000,4,Cartagena,Masculino,Básico,Alto,52,172,509000,App móvil,0
+C1005,59,18879000,8,Medellín,Masculino,Medio,Alto,37,43,714000,App móvil,1
+C1006,22,1538000,5,Medellín,Masculino,Premium,Medio,39,123,265000,Tienda física,0
+C1007,51,1887000,5,Bogotá,Masculino,Básico,Medio,23,135,268000,Tienda física,0
+C1008,27,3433000,6,Cartagena,Masculino,Básico,Bajo,66,62,554000,Tienda física,1
+C1009,22,4347000,5,Medellín,Masculino,Básico,Medio,69,24,219000,Web,0
+C1010,43,7321000,8,Bogotá,Masculino,Básico,Alto,10,54,571000,App móvil,1
+C1011,64,11062000,8,Barranquilla,Masculino,Medio,Medio,53,146,943000,Web,1
+C1012,53,3592000,3,Bucaramanga,Femenino,Medio,Alto,2,164,397000,Web,0
+C1013,54,1910000,7,Cartagena,Femenino,Medio,Medio,27,169,142000,Web,0
+C1014,52,1142000,3,Cali,Femenino,Básico,Medio,69,41,45000,Web,0
+C1015,55,3363000,7,Bogotá,Masculino,Básico,Medio,13,110,287000,App móvil,0
+C1016,42,2068000,8,Bucaramanga,Femenino,Básico,Medio,27,28,141000,App móvil,0
+C1017,24,2473000,10,Bucaramanga,Masculino,Premium,Alto,16,128,217000,Tienda física,0
+C1018,58,2263000,3,Medellín,Masculino,Medio,Bajo,52,75,135000,Web,0
+C1019,39,2798000,4,Barranquilla,No reporta,Básico,Alto,33,129,194000,Tienda física,0
+C1020,42,4816000,5,Medellín,Femenino,Medio,Alto,43,124,597000,Tienda física,0
+C1021,35,3199000,4,Medellín,Masculino,Básico,Medio,67,179,282000,App móvil,0
+C1022,26,2776000,9,Bogotá,Masculino,Básico,Medio,37,88,227000,App móvil,0
+C1023,62,1870000,4,Bogotá,Femenino,Básico,Medio,53,62,206000,Tienda física,0
+C1024,55,1403000,9,Cali,Masculino,Premium,Medio,7,95,205000,Tienda física,0
+C1025,48,2395000,5,Cartagena,Femenino,Medio,Alto,16,30,208000,WhatsApp,1
+C1026,37,2910000,4,Bogotá,Masculino,Medio,Medio,68,21,344000,App móvil,1
+C1027,57,6605000,5,Cali,Masculino,Básico,Alto,62,94,1155000,Tienda física,0
+C1028,44,3161000,7,Medellín,Femenino,Básico,Medio,47,149,342000,Tienda física,1
+C1029,39,4639000,11,Bogotá,Femenino,Medio,Medio,27,96,772000,Web,1
+C1030,39,2381000,6,Bogotá,Femenino,Básico,Alto,15,141,355000,WhatsApp,0
+C1031,28,1749000,4,Medellín,Femenino,Premium,Medio,61,33,68000,Web,0
+C1032,22,1931000,5,Cali,Masculino,Medio,Alto,56,81,182000,Web,0
+C1033,44,2151000,13,Barranquilla,Femenino,Básico,Bajo,18,111,290000,WhatsApp,0
+C1034,60,7768000,10,Bucaramanga,Femenino,Medio,Alto,42,63,1383000,App móvil,1
+C1035,21,2060000,2,Bogotá,Masculino,Premium,Alto,44,3,203000,Web,1
+C1036,59,4347000,8,Bucaramanga,Masculino,Medio,Alto,34,14,191000,Web,1
+C1037,57,1986000,6,Bucaramanga,Masculino,Medio,Medio,66,167,227000,Web,0
+C1038,31,4533000,2,Cartagena,Masculino,Premium,Alto,9,109,222000,App móvil,0
+C1039,48,3545000,8,Barranquilla,Femenino,Básico,Medio,19,48,506000,Web,0
+C1040,25,2778000,3,Barranquilla,Masculino,Premium,Alto,7,47,295000,WhatsApp,0
+C1041,54,2927000,4,Barranquilla,Femenino,Básico,Bajo,50,8,405000,WhatsApp,0
+C1042,51,2220000,8,Barranquilla,Masculino,Medio,Medio,46,171,356000,Tienda física,1
+C1043,35,3644000,5,Bogotá,No reporta,Medio,Medio,71,20,453000,App móvil,0
+C1044,21,2429000,7,Bucaramanga,Masculino,Medio,Medio,39,137,296000,Web,0
+C1045,64,1717000,8,Barranquilla,Masculino,Medio,Medio,11,44,246000,Web,0
+C1046,39,1677000,3,Cartagena,Masculino,Medio,Alto,33,61,262000,App móvil,0
+C1047,60,3222000,3,Cali,Femenino,Básico,Medio,7,50,517000,Web,1
+C1048,50,6067000,8,Bogotá,Masculino,Básico,Alto,48,149,215000,Web,0
+C1049,55,3203000,8,Medellín,Masculino,Básico,Bajo,48,6,363000,Web,1
+C1050,54,2826000,6,Medellín,No reporta,Medio,Alto,61,64,176000,Web,0
+C1051,27,3390000,10,Medellín,Masculino,Básico,Alto,25,51,539000,Tienda física,1
+C1052,35,5365000,6,Cali,Femenino,Básico,Medio,23,50,683000,App móvil,0
+C1053,40,3290000,3,Cali,Masculino,Premium,Alto,6,35,306000,App móvil,0
+C1054,41,2478000,4,Medellín,Femenino,Básico,Alto,30,165,144000,App móvil,0
+C1055,20,4904000,3,Cali,Femenino,Básico,Alto,34,69,397000,WhatsApp,0
+C1056,44,3615000,4,Bucaramanga,Femenino,Básico,Medio,54,76,490000,Tienda física,0
+C1057,25,5950000,4,Bogotá,Masculino,Básico,Medio,54,70,361000,WhatsApp,0
+C1058,53,3237000,3,Cali,Femenino,Medio,Alto,10,177,143000,Tienda física,0
+C1059,50,1718000,7,Cali,Femenino,Básico,Medio,21,62,280000,Web,0
+C1060,62,1611000,5,Medellín,Femenino,Básico,Alto,37,62,233000,WhatsApp,1
+C1061,53,6266000,5,Medellín,Masculino,Premium,Medio,24,60,376000,Web,0
+C1062,35,6475000,3,Barranquilla,Masculino,Medio,Alto,2,59,478000,Web,0
+C1063,64,2750000,3,Bucaramanga,Femenino,Medio,Bajo,61,17,483000,Web,1
+C1064,37,2509000,2,Cali,Femenino,Premium,Bajo,52,109,342000,Tienda física,0
+C1065,33,5754000,6,Barranquilla,Masculino,Premium,Alto,37,5,700000,Tienda física,0
+C1066,61,1811000,8,Bogotá,Femenino,Básico,Alto,23,41,138000,Tienda física,1
+C1067,35,1993000,8,Cali,Masculino,Medio,Alto,60,37,149000,WhatsApp,0
+C1068,21,3982000,4,Medellín,Femenino,Medio,Alto,3,53,143000,Web,0
+C1069,40,2496000,2,Bogotá,Masculino,Básico,Medio,32,137,348000,Tienda física,0
+C1070,56,2974000,8,Barranquilla,Femenino,Básico,Medio,57,108,108000,Tienda física,0
+C1071,27,2770000,6,Barranquilla,Masculino,Básico,Bajo,68,179,85000,App móvil,0
+C1072,40,3470000,4,Cartagena,Femenino,Medio,Medio,18,64,484000,Web,0
+C1073,24,5616000,6,Medellín,No reporta,Medio,Medio,47,168,968000,Web,0
+C1074,50,3105000,5,Barranquilla,No reporta,Medio,Alto,14,9,445000,Tienda física,1
+C1075,40,3983000,7,Cali,Masculino,Básico,Bajo,9,91,401000,App móvil,0
+C1076,33,1185000,8,Bogotá,Femenino,Básico,Bajo,26,144,122000,App móvil,0
+C1077,28,2916000,6,Bogotá,Femenino,Medio,Medio,63,96,278000,App móvil,0
+C1078,45,2040000,5,Barranquilla,Masculino,Medio,Bajo,49,168,161000,App móvil,0
+C1079,50,1723000,10,Bucaramanga,Masculino,Premium,Medio,35,57,187000,Tienda física,0
+C1080,63,2008000,7,Bogotá,Femenino,Premium,Medio,21,6,190000,Web,0
+C1081,38,2565000,3,Medellín,Femenino,Premium,Medio,11,140,307000,Web,0
+C1082,25,4501000,9,Cartagena,Femenino,Premium,Medio,20,13,741000,Web,1
+C1083,57,1641000,7,Cartagena,Masculino,Premium,Alto,11,138,294000,Tienda física,0
+C1084,48,3022000,6,Medellín,Masculino,Medio,Medio,14,133,126000,Tienda física,0
+C1085,51,2397000,6,Barranquilla,Masculino,Básico,Alto,49,152,210000,Tienda física,0
+C1086,22,2572000,3,Barranquilla,Masculino,Básico,Medio,10,87,147000,Tienda física,0
+C1087,32,4681000,6,Cartagena,Femenino,Básico,Bajo,4,162,388000,Tienda física,0
+C1088,54,22788000,9,Bogotá,Femenino,Básico,Medio,39,31,1112000,App móvil,1
+C1089,57,5442000,6,Bucaramanga,Femenino,Básico,Alto,21,79,306000,App móvil,0
+C1090,38,2781000,3,Bogotá,Masculino,Premium,Medio,33,22,402000,Web,1
+C1091,56,2179000,9,Cartagena,Femenino,Básico,Medio,10,139,228000,Tienda física,0
+C1092,58,2695000,5,Bogotá,Femenino,Premium,Medio,15,129,452000,App móvil,0
+C1093,36,3325000,6,Bogotá,Femenino,Medio,Alto,32,146,116000,App móvil,0
+C1094,61,3227000,7,Bogotá,Femenino,Medio,Medio,49,138,129000,Web,0
+C1095,31,1830000,9,Medellín,Masculino,Medio,Medio,30,56,166000,Tienda física,0
+C1096,29,3105000,6,Cali,Femenino,Básico,Alto,39,13,131000,App móvil,0
+C1097,50,3303000,3,Bogotá,Femenino,Medio,Medio,38,168,229000,App móvil,0
+C1098,48,9254000,6,Medellín,Masculino,Básico,Medio,20,89,1646000,Web,0
+C1099,24,6937000,7,Medellín,Femenino,Premium,Bajo,20,17,426000,Tienda física,1
+C1100,57,2031000,4,Cartagena,Femenino,Básico,Bajo,31,167,121000,WhatsApp,0
+C1101,27,2619000,9,Cartagena,Femenino,Básico,Alto,3,179,304000,Web,0
+C1102,56,1543000,5,Barranquilla,Masculino,Medio,Medio,49,81,162000,WhatsApp,0
+C1103,18,2285000,7,Bogotá,Femenino,Medio,Medio,44,139,267000,Web,0
+C1104,56,3436000,8,Cali,Masculino,Medio,Medio,22,7,297000,Tienda física,1
+C1105,55,5129000,6,Bucaramanga,Masculino,Medio,Bajo,27,17,790000,Tienda física,1
+C1106,55,2147000,9,Bogotá,Masculino,Básico,Alto,24,50,109000,Web,0
+C1107,49,2221000,7,Medellín,Femenino,Medio,Medio,47,119,209000,WhatsApp,0
+C1108,40,1134000,5,Bucaramanga,Masculino,Básico,Alto,54,25,151000,Tienda física,0
+C1109,51,2771000,7,Bucaramanga,Femenino,Básico,Medio,8,7,444000,WhatsApp,0
+C1110,31,1848000,5,Medellín,Femenino,Básico,Medio,30,121,158000,Web,0
+C1111,55,2349000,8,Barranquilla,Masculino,Básico,Bajo,1,139,271000,WhatsApp,0
+C1112,44,2009000,4,Medellín,Femenino,Básico,Alto,33,134,81000,WhatsApp,0
+C1113,40,2857000,9,Cartagena,Femenino,Medio,Bajo,18,144,159000,Tienda física,1
+C1114,42,1352000,12,Bogotá,Femenino,Básico,Bajo,24,145,55000,Web,0
+C1115,45,1540000,6,Bogotá,Femenino,Básico,Alto,33,109,214000,App móvil,1
+C1116,19,7771000,5,Barranquilla,Femenino,Medio,Medio,23,94,569000,Tienda física,0
+C1117,24,1670000,6,Cali,Masculino,Básico,Medio,28,155,231000,WhatsApp,0
+C1118,29,1820000,5,Barranquilla,Masculino,Medio,Medio,55,63,73000,Tienda física,0
+C1119,23,6813000,5,Cali,Femenino,Premium,Alto,58,18,1086000,Web,1
+C1120,39,11018000,7,Cartagena,Masculino,Básico,Medio,1,136,1711000,Web,1
+C1121,50,1760000,9,Cartagena,Femenino,Premium,Medio,27,50,76000,App móvil,1
+C1122,49,2526000,6,Medellín,Femenino,Básico,Medio,61,177,85000,WhatsApp,0
+C1123,40,3476000,10,Cartagena,Femenino,Básico,Medio,38,75,134000,Web,1
+C1124,59,6489000,5,Cali,Femenino,Medio,Medio,15,154,1026000,App móvil,0
+C1125,45,1912000,3,Medellín,Femenino,Medio,Bajo,43,8,125000,WhatsApp,0
+C1126,21,2669000,1,Bogotá,Femenino,Premium,Bajo,11,119,300000,Web,0
+C1127,54,4229000,5,Cartagena,Femenino,Básico,Medio,2,81,397000,Web,0
+C1128,45,3625000,7,Cartagena,Masculino,Medio,Alto,45,84,541000,App móvil,0
+C1129,48,2517000,8,Bucaramanga,Femenino,Básico,Bajo,37,48,260000,App móvil,0
+C1130,45,2807000,4,Cartagena,Femenino,Básico,Medio,54,175,295000,Web,0
+C1131,44,1606000,3,Bucaramanga,Femenino,Básico,Alto,25,71,286000,WhatsApp,0
+C1132,22,2678000,7,Cali,Masculino,Premium,Alto,61,154,141000,Tienda física,0
+C1133,44,2644000,7,Bucaramanga,Femenino,Básico,Medio,30,77,409000,WhatsApp,0
+C1134,56,3309000,6,Medellín,Masculino,Medio,Medio,53,9,125000,WhatsApp,0
+C1135,32,2322000,4,Medellín,Femenino,Medio,Medio,8,159,236000,App móvil,0
+C1136,46,3686000,8,Medellín,Femenino,Medio,Medio,7,34,601000,Tienda física,1
+C1137,19,4702000,4,Cali,Masculino,Medio,Bajo,56,49,610000,Web,0
+C1138,34,3197000,7,Cali,Femenino,Premium,Medio,60,155,425000,Tienda física,0
+C1139,38,3492000,5,Cali,Femenino,Básico,Medio,67,161,243000,Web,0
+C1140,65,3053000,4,Bogotá,Femenino,Básico,Medio,24,166,283000,App móvil,1
+C1141,28,2981000,5,Medellín,No reporta,Medio,Medio,2,77,253000,Web,0
+C1142,31,2154000,4,Cartagena,Masculino,Básico,Medio,70,137,233000,Tienda física,0
+C1143,37,3437000,6,Barranquilla,Masculino,Básico,Medio,43,60,341000,Web,0
+C1144,65,2853000,5,Medellín,No reporta,Básico,Alto,18,134,225000,Web,1
+C1145,58,7646000,6,Medellín,Femenino,Básico,Alto,55,91,580000,Web,1
+C1146,19,6051000,9,Medellín,No reporta,Básico,Medio,65,10,409000,App móvil,0
+C1147,29,3546000,5,Bogotá,Femenino,Básico,Medio,21,76,301000,App móvil,0
+C1148,57,2115000,6,Cartagena,Masculino,Premium,Medio,55,85,111000,Web,1
+C1149,20,1807000,9,Bogotá,Femenino,Básico,Bajo,56,47,291000,WhatsApp,0
+C1150,59,5095000,5,Barranquilla,Femenino,Premium,Alto,36,68,613000,WhatsApp,0
+C1151,31,3355000,5,Cartagena,Masculino,Premium,Bajo,45,91,168000,Tienda física,0
+C1152,62,3700000,7,Medellín,Femenino,Básico,Medio,20,9,496000,App móvil,0
+C1153,32,1360000,5,Cartagena,No reporta,Medio,Medio,66,28,214000,Tienda física,0
+C1154,38,4525000,4,Cali,Femenino,Medio,Bajo,70,139,297000,Web,0
+C1155,49,3657000,5,Cartagena,Masculino,Medio,Bajo,70,64,192000,Tienda física,0
+C1156,24,1809000,7,Cartagena,No reporta,Básico,Medio,53,110,57000,Web,0
+C1157,44,2411000,10,Cartagena,Femenino,Básico,Alto,4,102,89000,WhatsApp,0
+C1158,42,3357000,7,Barranquilla,Masculino,Básico,Medio,27,100,485000,WhatsApp,0
+C1159,55,3052000,6,Cartagena,Masculino,Medio,Medio,32,75,543000,App móvil,0
+C1160,65,2614000,3,Bucaramanga,Masculino,Premium,Bajo,69,87,96000,Tienda física,1
+C1161,49,2845000,7,Medellín,Femenino,Medio,Medio,39,149,405000,Tienda física,1
+C1162,37,2661000,4,Cartagena,Masculino,Medio,Bajo,39,174,109000,WhatsApp,0
+C1163,37,3193000,4,Cartagena,Masculino,Premium,Medio,11,47,379000,Web,0
+C1164,38,5780000,9,Medellín,Femenino,Medio,Alto,57,121,829000,Web,1
+C1165,57,939000,6,Bucaramanga,Femenino,Básico,Medio,24,175,79000,Tienda física,0
+C1166,33,2680000,7,Cali,Femenino,Premium,Medio,7,2,85000,Tienda física,1
+C1167,26,3227000,4,Medellín,Masculino,Básico,Bajo,71,142,385000,Tienda física,0
+C1168,34,3406000,5,Bogotá,Femenino,Básico,Bajo,14,90,609000,Web,0
+C1169,19,2522000,6,Cali,Masculino,Medio,Medio,2,175,173000,App móvil,0
+C1170,23,1352000,14,Cartagena,No reporta,Premium,Alto,6,105,79000,Web,0
+C1171,22,3455000,5,Cali,Femenino,Básico,Medio,33,151,168000,Web,0
+C1172,55,45395000,6,Cali,Femenino,Medio,Medio,8,30,3675000,Web,1
+C1173,52,1495000,5,Cali,Masculino,Básico,Alto,60,26,179000,Tienda física,1
+C1174,51,4397000,5,Medellín,Femenino,Básico,Bajo,37,167,654000,WhatsApp,0
+C1175,40,2571000,4,Cartagena,Masculino,Básico,Bajo,23,95,368000,Tienda física,0
+C1176,52,2900000,9,Cartagena,Masculino,Medio,Medio,1,101,475000,App móvil,1
+C1177,25,1856000,7,Bogotá,Masculino,Premium,Medio,35,31,280000,App móvil,0
+C1178,61,2564000,7,Medellín,Femenino,Básico,Medio,11,41,172000,Tienda física,0
+C1179,42,5351000,5,Medellín,Masculino,Básico,Alto,70,148,607000,App móvil,0
+C1180,63,3875000,7,Barranquilla,Masculino,Básico,Alto,21,55,289000,App móvil,0
+C1181,25,6500000,4,Medellín,Femenino,Básico,Alto,34,106,517000,Tienda física,0
+C1182,41,5064000,7,Cali,Masculino,Medio,Alto,2,57,860000,Web,0
+C1183,51,3632000,10,Medellín,Masculino,Medio,Alto,10,48,480000,Web,1
+C1184,41,6534000,8,Barranquilla,Masculino,Medio,Alto,15,30,1151000,WhatsApp,1
+C1185,39,3632000,6,Medellín,Femenino,Básico,Alto,4,168,336000,App móvil,0
+C1186,25,4327000,5,Medellín,Femenino,Medio,Alto,52,170,479000,WhatsApp,0
+C1187,36,2609000,7,Cartagena,Femenino,Básico,Alto,68,21,269000,WhatsApp,1
+C1188,29,3072000,4,Cartagena,Femenino,Básico,Alto,70,64,142000,Web,0
+C1189,32,2178000,7,Cali,Femenino,Premium,Medio,19,102,143000,App móvil,0
+C1190,50,4653000,5,Cartagena,No reporta,Medio,Medio,57,69,508000,Tienda física,0
+C1191,48,1754000,5,Cartagena,Femenino,Premium,Medio,36,130,70000,App móvil,0
+C1192,47,4239000,4,Bogotá,Masculino,Premium,Alto,4,47,719000,Web,0
+C1193,35,2736000,13,Barranquilla,Femenino,Medio,Medio,7,11,133000,Web,0
+C1194,64,5050000,3,Cali,Femenino,Premium,Alto,39,61,301000,App móvil,1
+C1195,22,4179000,6,Cartagena,Femenino,Básico,Alto,31,108,605000,App móvil,0
+C1196,34,6763000,11,Cali,Femenino,Básico,Alto,1,33,301000,App móvil,1
+C1197,23,4142000,4,Barranquilla,Masculino,Básico,Medio,67,147,684000,Web,0
+C1198,34,1469000,6,Cali,No reporta,Básico,Alto,52,3,204000,Web,1
+C1199,64,2892000,5,Medellín,Masculino,Básico,Alto,36,13,117000,WhatsApp,0
+C1200,35,1759000,7,Bucaramanga,Femenino,Básico,Alto,71,92,235000,Tienda física,0
+C1201,61,2361000,7,Cali,Masculino,Medio,Alto,69,93,295000,Tienda física,1
+C1202,41,5884000,1,Cartagena,Femenino,Medio,Medio,70,54,845000,Tienda física,1
+C1203,51,3971000,4,Bucaramanga,Masculino,Medio,Medio,19,47,612000,Tienda física,1
+C1204,39,2177000,6,Cartagena,Masculino,Básico,Bajo,63,13,300000,Tienda física,1
+C1205,30,1889000,5,Bogotá,Femenino,Medio,Alto,36,120,223000,Tienda física,0
+C1206,54,3025000,10,Cartagena,Femenino,Básico,Medio,52,69,237000,App móvil,1
+C1207,64,1724000,5,Bogotá,Femenino,Básico,Alto,62,22,232000,WhatsApp,1
+C1208,30,2204000,7,Cali,Femenino,Básico,Alto,12,72,382000,WhatsApp,1
+C1209,55,3430000,6,Cartagena,Masculino,Básico,Medio,32,169,405000,Tienda física,0
+C1210,30,5014000,8,Barranquilla,Masculino,Básico,Medio,10,48,650000,Tienda física,0
+C1211,52,3920000,5,Medellín,No reporta,Medio,Bajo,20,162,375000,App móvil,0
+C1212,55,1063000,10,Cali,Femenino,Medio,Alto,30,47,152000,WhatsApp,1
+C1213,39,3419000,4,Cartagena,Masculino,Medio,Medio,61,34,614000,Tienda física,1
+C1214,53,3079000,9,Barranquilla,Femenino,Básico,Bajo,62,47,166000,App móvil,0
+C1215,31,3591000,11,Medellín,Masculino,Medio,Alto,28,59,217000,App móvil,0
+C1216,21,6169000,9,Cartagena,Femenino,Medio,Medio,24,22,684000,App móvil,0
+C1217,22,1178000,5,Cali,Femenino,Básico,Alto,38,106,120000,App móvil,0
+C1218,39,2285000,5,Bogotá,Masculino,Medio,Medio,65,61,264000,Web,0
+C1219,61,3889000,4,Barranquilla,Femenino,Medio,Medio,70,130,145000,Tienda física,0
+C1220,24,1463000,6,Bucaramanga,Femenino,Básico,Bajo,17,89,133000,App móvil,0
+C1221,39,5792000,6,Cali,Masculino,Básico,Medio,14,80,680000,Web,0
+C1222,51,3518000,6,Cali,Femenino,Medio,Medio,51,85,414000,WhatsApp,1
+C1223,27,4363000,8,Bogotá,Masculino,Básico,Alto,22,29,561000,App móvil,1
+C1224,52,2306000,6,Cartagena,Masculino,Básico,Medio,15,129,318000,Web,0
+C1225,32,4299000,3,Cali,Masculino,Básico,Medio,3,19,543000,App móvil,0
+C1226,56,4821000,3,Medellín,Masculino,Premium,Medio,29,130,716000,App móvil,0
+C1227,45,3310000,9,Bucaramanga,Masculino,Básico,Medio,28,180,409000,App móvil,0
+C1228,44,3313000,6,Bogotá,Masculino,Básico,Alto,40,138,367000,Tienda física,0
+C1229,26,3367000,6,Medellín,Masculino,Básico,Bajo,15,82,407000,WhatsApp,0
+C1230,40,2021000,4,Medellín,Masculino,Premium,Alto,51,57,91000,Tienda física,1
+C1231,59,2789000,8,Cartagena,Femenino,Medio,Medio,49,158,198000,App móvil,1
+C1232,18,2783000,6,Cali,Femenino,Premium,Bajo,33,47,304000,Web,0
+C1233,54,3542000,4,Medellín,Masculino,Básico,Medio,13,87,570000,App móvil,0
+C1234,41,4675000,8,Bogotá,Femenino,Básico,Bajo,36,139,616000,App móvil,0
+C1235,52,1851000,7,Cartagena,Femenino,Medio,Alto,48,167,81000,Tienda física,0
+C1236,49,2818000,8,Cartagena,Femenino,Básico,Medio,27,166,335000,Tienda física,0
+C1237,38,5806000,3,Bogotá,Masculino,Medio,Medio,19,16,367000,App móvil,1
+C1238,32,2133000,5,Cali,Femenino,Premium,Medio,36,162,299000,App móvil,0
+C1239,48,2059000,5,Cartagena,Masculino,Medio,Medio,26,21,317000,Web,0
+C1240,24,3265000,10,Bogotá,Masculino,Premium,Alto,29,106,389000,WhatsApp,0
+C1241,46,4359000,7,Cali,Masculino,Medio,Alto,25,168,517000,App móvil,0
+C1242,22,2996000,8,Medellín,Femenino,Básico,Alto,22,118,242000,WhatsApp,0
+C1243,49,5421000,10,Cali,Masculino,Medio,Alto,51,171,525000,WhatsApp,1
+C1244,48,4383000,5,Cali,Masculino,Básico,Alto,33,62,700000,WhatsApp,0
+C1245,22,4354000,7,Medellín,Femenino,Medio,Medio,34,57,603000,App móvil,1
+C1246,54,3825000,5,Bogotá,Masculino,Básico,Alto,47,59,413000,App móvil,0
+C1247,37,8497000,3,Medellín,Femenino,Básico,Bajo,26,64,724000,Web,0
+C1248,55,2718000,6,Barranquilla,No reporta,Medio,Alto,8,123,102000,Tienda física,0
+C1249,19,1210000,4,Medellín,Femenino,Básico,Alto,61,82,62000,App móvil,0
+C1250,26,6136000,7,Bogotá,Masculino,Básico,Bajo,4,133,362000,Tienda física,0
+C1251,41,2426000,6,Cartagena,Masculino,Medio,Alto,41,75,209000,WhatsApp,1
+C1252,27,3129000,4,Bogotá,Femenino,Básico,Alto,19,56,537000,Web,0
+C1253,33,5374000,8,Cartagena,Masculino,Medio,Medio,16,35,568000,Tienda física,0
+C1254,49,1450000,3,Cali,Femenino,Básico,Medio,3,100,95000,Tienda física,0
+C1255,24,1697000,5,Cartagena,Masculino,Básico,Alto,64,162,78000,Tienda física,0
+C1256,50,1450000,4,Bogotá,Masculino,Básico,Alto,31,155,117000,Web,0
+C1257,22,2085000,8,Bogotá,Femenino,Medio,Bajo,25,46,318000,Web,0
+C1258,26,3633000,6,Medellín,Femenino,Premium,Medio,53,86,318000,WhatsApp,0
+C1259,46,3774000,4,Bogotá,Masculino,Básico,Alto,3,127,551000,Tienda física,1
