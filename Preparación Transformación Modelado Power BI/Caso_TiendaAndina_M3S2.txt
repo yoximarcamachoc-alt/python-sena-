@@ -1,0 +1,6 @@
+Caso de práctica: Tienda Andina S.A.S.
+
+La gerencia de Tienda Andina desea construir indicadores de ventas por zona, canal, categoría y vendedor. Al revisar la base operacional se detectan inconsistencias de escritura, fechas con formatos distintos, duplicados y algunos valores vacíos.
+
+Reto de la sesión:
+Preparar la información para que la próxima sesión permita construir KPIs confiables y visualizaciones descriptivas.

@@ -1,0 +1,155 @@
+﻿id_venta,fecha,zona,canal,categoria,producto,vendedor,tipo_cliente,unidades,precio_unitario,ventas,costo_estimado
+1,2025-03-26,Oriente,Televentas,Accesorios,Soporte portátil,,Corporativo,17,67000,1139000.0,630000
+2,2025-08-08,Norte,Televentas,Cuidado personal,Plancha cabello,Paola,minorista,15,114000,1710000.0,1136000
+3,,Norte,Televentas,Hogar,Cafetera,Daniela,minorista,11,122000,1342000.0,943000
+4,2025-05-01,Centro ,online,Hogar,Cafetera,Paola,Corporativo,11,186000,2046000.0,1318000
+5,2025-08-20,Occidente,Tienda física,Oficina ,Agenda,Carlos,Corporativo,0,143000,0.0,0
+6,2025-10-20,Centro,Distribuidor ,Hogar,Lámpara,Luis,Frecuente,12,190000,2280000.0,1383000
+7,2025-03-31,SUR,Online,Tecnología,Audífonos,Ana,Frecuente,16,299000,4784000.0,3661000
+8,2025-10-15,Occidente,Tienda física,Oficina ,Silla,Marta,Corporativo ,10,162000,1620000.0,1038000
+9,2025-11-27,Occidente,Online,Oficina ,Silla,,Corporativo ,0,158000,0.0,0
+10,2025-07-08,Centro,online,Oficina ,Escritorio,Marta,Corporativo,1,149000,149000.0,106000
+11,2025-06-16,SUR,Online,hogar,Ventilador,Daniela,Corporativo,4,125000,500000.0,349000
+12,2025-02-06,norte,Televentas,Oficina,Escritorio,Sergio,Corporativo,6,228000,1368000.0,816000
+13,2025-01-24,SUR,Televentas,Tecnología,Tablet,Carlos,Nuevo,6,231000,1386000.0,1070000
+14,2025-01-22,Sur,online,Accesorios,Soporte portátil,Ana,minorista,11,51000,561000.0,399000
+15,2025-10-15,norte,Tienda física,Tecnologia,Audífonos,Luis,Corporativo ,14,207000,2898000.0,1643000
+16,2025-08-18,SUR,Televentas,Oficina ,Agenda,Carlos,Corporativo,1,182000,182000.0,110000
+17,2025-07-27,SUR,Distribuidor,Cuidado personal,Kit cuidado,Sergio,Corporativo,3,102000,306000.0,195000
+18,2025-04-21,Centro ,Televentas,Accesorios,Mouse pad,Paola,Frecuente,13,73000,,738000
+19,2025-06-10,Centro,Tienda física,Oficina,Silla,,Frecuente,13,185000,2405000.0,1383000
+20,2025-12-27,Occidente,Tienda física,Tecnologia,Audífonos,Ana,Frecuente,17,327000,5559000.0,3254000
+21,2025-04-13,SUR,Televentas,hogar,Lámpara,Paola,Nuevo,15,133000,1995000.0,1177000
+22,2025-05-20,norte,Distribuidor ,Cuidado personal,Secador,Luis,Minorista,3,93000,279000.0,192000
+23,2025-05-03,Occidente,Online,Oficina,Silla,Sergio,Frecuente,1,150000,150000.0,110000
+24,2025-09-29,Oriente,Online,hogar,Organizador,Sergio,Minorista,3,187000,561000.0,405000
+25,2025-04-07,norte,Online,Oficina ,Agenda,Marta,Corporativo,12,204000,2448000.0,1352000
+26,2025-12-09,Occidente,Distribuidor,Cuidado personal,Masajeador,Ana,Corporativo,2,110000,220000.0,161000
+27,2025-01-17,Oriente,Distribuidor ,Accesorios,Soporte portátil,Jorge,Corporativo ,17,52000,884000.0,531000
+28,2025-06-30,norte,Televentas,Oficina,Silla,Sergio,Corporativo,15,233000,3495000.0,2468000
+29,2025-11-28,SUR,Online,Hogar,Ventilador,Sergio,Corporativo ,0,139000,0.0,0
+30,2025-07-12,Oriente,online,hogar,Lámpara,,Frecuente,15,186000,2790000.0,1767000
+31,2025-07-27,Norte,Televentas,Tecnologia,Audífonos,Ana,Corporativo ,7,228000,1596000.0,1073000
+32,2025-09-21,Centro ,Online,hogar,Organizador,Jorge,Frecuente,6,142000,852000.0,565000
+33,2025-10-03,Occidente,Distribuidor ,Tecnologia,Teclado,Daniela,Corporativo ,8,254000,,1302000
+34,2025-12-07,Centro ,Online,Oficina ,Archivador,,Nuevo,0,234000,0.0,0
+35,2025-07-01,Sur,Distribuidor,Hogar,Ventilador,Marta,Corporativo ,15,189000,2835000.0,1689000
+36,2025-02-09,Occidente,Tienda física,Oficina,Archivador,Marta,Corporativo ,7,149000,1043000.0,759000
+37,2025-01-17,Oriente,Online,Tecnologia,Tablet,Marta,Minorista,9,260000,2340000.0,1353000
+38,2025-12-02,Centro ,online,Cuidado personal,Kit cuidado,,minorista,12,92000,1104000.0,849000
+39,2025-07-25,Centro ,Online,Oficina ,Archivador,Ana,Corporativo ,15,219000,3285000.0,2488000
+40,2025-06-26,norte,Distribuidor,Accesorios,Cable USB,Jorge,Minorista,15,46000,690000.0,479000
+41,2025-04-24,Sur,Tienda física,Hogar,Organizador,Jorge,Corporativo ,7,116000,812000.0,492000
+42,2025-02-19,Occidente,Distribuidor,Tecnología,Teclado,Luis,Nuevo,2,202000,404000.0,260000
+43,2025-09-04,Centro ,Distribuidor ,Hogar,Ventilador,Marta,minorista,6,141000,846000.0,561000
+44,2025-05-31,norte,Online,Hogar,Organizador,Daniela,Frecuente,10,132000,1320000.0,932000
+45,2025-01-26,Centro ,Online,hogar,Cafetera,,Frecuente,7,163000,1141000.0,787000
+46,2025-01-10,Oriente,Online,Tecnología,Audífonos,Luis,Minorista,8,345000,2760000.0,1676000
+47,2025-07-12,Centro ,Online,Oficina,Escritorio,Luis,Frecuente,5,216000,1080000.0,767000
+48,2025-02-10,SUR,Online,Accesorios,Cable USB,Paola,Minorista,9,48000,432000.0,335000
+49,2025-04-29,Oriente,Televentas,Cuidado personal,Kit cuidado,,Corporativo,6,121000,726000.0,510000
+50,08/03/2025,Centro,Televentas,Tecnología,Tablet,Carlos,Nuevo,2,246000,492000.0,291000
+51,2025-12-01,Sur,Distribuidor,hogar,Organizador,Luis,Minorista,14,194000,2716000.0,1654000
+52,2025-06-10,norte,Distribuidor ,Tecnologia,Audífonos,Luis,Corporativo,6,238000,,1043000
+53,2025-06-24,Norte,Tienda física,Cuidado personal,Secador,Daniela,Frecuente,18,99000,1782000.0,1112000
+54,2025-11-07,Occidente,Distribuidor,Accesorios,Soporte portátil,Jorge,Corporativo ,13,67000,871000.0,538000
+55,2025-01-22,Oriente,Tienda física,Accesorios,Soporte portátil,Sergio,Nuevo,6,62000,372000.0,289000
+56,2025-09-07,Sur,online,Oficina ,Archivador,Ana,Corporativo ,1,191000,,137000
+57,2025-02-02,SUR,Distribuidor,Oficina ,Silla,Paola,Nuevo,16,155000,2480000.0,1534000
+58,2025-04-26,SUR,Distribuidor ,Oficina,Archivador,Luis,minorista,9,177000,1593000.0,1149000
+59,19/09/2025,Centro ,Distribuidor,Cuidado personal,Plancha cabello,Sergio,Frecuente,17,137000,2329000.0,1534000
+60,2025-12-18,Oriente,Distribuidor ,Oficina ,Agenda,Marta,Corporativo,6,192000,1152000.0,873000
+61,2025-04-05,Oriente,online,hogar,Ventilador,Marta,Minorista,4,158000,632000.0,357000
+62,2025-03-29,SUR,Distribuidor ,Cuidado personal,Kit cuidado,Paola,Frecuente,6,91000,546000.0,337000
+63,2025-04-11,Centro ,Distribuidor,Accesorios,Soporte portátil,Jorge,Minorista,12,73000,876000.0,589000
+64,2025-05-16,Sur,Distribuidor,Cuidado personal,Plancha cabello,Jorge,Corporativo,6,128000,768000.0,585000
+65,2025-01-18,Centro,Televentas,Oficina ,Archivador,Paola,Frecuente,15,241000,3615000.0,2110000
+66,2025-07-14,norte,Tienda física,hogar,Organizador,Jorge,Corporativo ,17,117000,1989000.0,1542000
+67,2025-07-15,Occidente,Tienda física,hogar,Organizador,Paola,Minorista,17,122000,2074000.0,1387000
+68,2025-02-21,Occidente,online,Oficina ,Agenda,Ana,Nuevo,8,141000,1128000.0,826000
+69,2025-05-16,SUR,Televentas,hogar,Lámpara,Luis,Corporativo,11,177000,1947000.0,1410000
+70,,Sur,Distribuidor ,Hogar,Ventilador,Carlos,Nuevo,16,182000,2912000.0,1885000
+71,2025-09-27,Sur,Online,Oficina,Archivador,Luis,Corporativo ,13,239000,3107000.0,2076000
+72,2025-09-22,Oriente,Televentas,hogar,Organizador,Jorge,Corporativo,9,110000,990000.0,692000
+73,2025-06-20,SUR,Distribuidor,Cuidado personal,Secador,Carlos,minorista,9,145000,1305000.0,729000
+74,2025-05-06,Norte,Distribuidor,hogar,Ventilador,Sergio,Corporativo ,0,156000,0.0,0
+75,2025-10-10,Occidente,Distribuidor ,Oficina ,Silla,Ana,Frecuente,11,213000,2343000.0,1360000
+76,2025-03-28,Oriente,Tienda física,Oficina,Agenda,Carlos,Frecuente,14,219000,3066000.0,2246000
+77,2025-08-31,norte,Online,Hogar,Organizador,,Corporativo ,11,122000,1342000.0,885000
+78,2025-11-24,Centro ,Distribuidor,Tecnología,Tablet,Carlos,Corporativo,6,201000,1206000.0,842000
+79,2025-04-25,norte,Televentas,Cuidado personal,Plancha cabello,Luis,Minorista,5,115000,575000.0,372000
+80,2025-06-02,Norte,Distribuidor,Oficina,Escritorio,Jorge,minorista,9,197000,1773000.0,1141000
+81,2025-06-11,Centro ,Online,Tecnología,Tablet,Sergio,Corporativo ,14,277000,3878000.0,2875000
+82,2025-08-12,Centro ,Tienda física,Tecnología,Router,,minorista,14,262000,3668000.0,2122000
+83,2025-05-15,norte,Distribuidor,Oficina,Silla,Sergio,Corporativo ,12,241000,2892000.0,2163000
+84,2025-09-05,Centro ,online,Oficina,Archivador,Carlos,Nuevo,6,231000,1386000.0,1020000
+85,2025-05-30,norte,Tienda física,Oficina ,Agenda,Jorge,Nuevo,10,223000,2230000.0,1494000
+86,2025-07-11,Centro,Distribuidor ,Tecnologia,Tablet,Ana,Nuevo,10,319000,3190000.0,2366000
+87,,Sur,online,Cuidado personal,Kit cuidado,Paola,Corporativo,7,91000,637000.0,362000
+88,09/09/2025,Oriente,Online,Oficina ,Agenda,Ana,Minorista,12,156000,1872000.0,1364000
+89,2025-09-21,Sur,Distribuidor ,Tecnologia,Teclado,Marta,minorista,18,243000,4374000.0,3052000
+90,2025-01-27,Occidente,Distribuidor ,Oficina ,Silla,,Frecuente,13,192000,2496000.0,1425000
+91,2025-06-09,norte,Tienda física,hogar,Cafetera,Daniela,Frecuente,18,110000,1980000.0,1496000
+92,2025-03-14,Sur,Online,Oficina ,Agenda,Luis,Minorista,7,155000,1085000.0,711000
+93,2025-08-17,Norte,Distribuidor,Oficina,Archivador,Carlos,Nuevo,3,175000,525000.0,322000
+94,2025-02-06,Centro,Televentas,Oficina ,Escritorio,Marta,Minorista,10,230000,2300000.0,1345000
+95,2025-01-12,SUR,online,Accesorios,Mouse pad,Paola,minorista,15,70000,1050000.0,770000
+96,2025-04-30,Centro ,Tienda física,Oficina ,Escritorio,Marta,minorista,4,156000,624000.0,436000
+97,,Centro ,Tienda física,Tecnologia,Tablet,,Frecuente,17,274000,4658000.0,3627000
+98,2025-06-03,norte,Distribuidor ,Oficina ,Silla,Sergio,Corporativo,0,225000,0.0,0
+99,2025-08-28,Oriente,Online,Oficina,Escritorio,Jorge,Corporativo,5,175000,875000.0,628000
+100,17/09/2025,SUR,online,Hogar,Lámpara,Carlos,Nuevo,4,140000,560000.0,337000
+101,2025-10-30,Norte,online,Hogar,Ventilador,Ana,Nuevo,1,189000,189000.0,104000
+102,2025-04-05,Oriente,online,Tecnologia,Audífonos,Marta,Frecuente,13,195000,2535000.0,1410000
+103,2025-12-22,norte,Distribuidor,Accesorios,Morral,Ana,minorista,15,51000,765000.0,460000
+104,,Centro ,Distribuidor ,Hogar,Cafetera,Sergio,Corporativo ,10,143000,1430000.0,923000
+105,2025-12-09,Sur,online,Hogar,Lámpara,Jorge,Nuevo,12,171000,2052000.0,1144000
+106,2025-04-25,SUR,Online,Cuidado personal,Masajeador,Daniela,minorista,3,135000,405000.0,244000
+107,2025-02-22,Sur,online,Oficina ,Silla,Sergio,Minorista,0,216000,0.0,0
+108,2025-11-05,Centro ,Online,Accesorios,Cable USB,Jorge,Minorista,1,56000,56000.0,37000
+109,2025-08-31,Occidente,online,Tecnologia,Router,Sergio,Frecuente,18,201000,3618000.0,2744000
+110,2025-10-31,Centro,Televentas,Tecnologia,Router,Marta,minorista,18,338000,6084000.0,4636000
+111,2025-05-02,Centro,Tienda física,Tecnologia,Tablet,Daniela,Nuevo,1,256000,256000.0,146000
+112,2025-06-26,Centro ,Tienda física,hogar,Lámpara,Carlos,Frecuente,17,185000,3145000.0,2368000
+113,2025-06-26,Centro,Tienda física,Cuidado personal,Secador,Ana,Corporativo,15,116000,1740000.0,1004000
+114,2025-12-24,Centro,online,Oficina,Agenda,Carlos,Frecuente,14,175000,2450000.0,1766000
+115,2025-01-31,Sur,Distribuidor,Tecnología,Audífonos,Carlos,Corporativo ,2,230000,460000.0,327000
+116,2025-03-22,SUR,Distribuidor,Cuidado personal,Masajeador,Ana,Minorista,3,91000,273000.0,211000
+117,2025-10-09,Centro ,Online,Oficina,Silla,,Nuevo,6,233000,1398000.0,931000
+118,2025-11-21,Sur,Tienda física,Oficina ,Agenda,Carlos,Corporativo,9,201000,1809000.0,1051000
+119,2025-10-12,Sur,Online,hogar,Cafetera,Daniela,Frecuente,6,192000,1152000.0,719000
+120,2025-03-23,Norte,Distribuidor ,Tecnología,Audífonos,Carlos,Frecuente,11,214000,2354000.0,1799000
+121,2025-09-21,Norte,Distribuidor ,Cuidado personal,Masajeador,Jorge,Corporativo ,4,103000,412000.0,266000
+122,2025-08-16,Centro ,Distribuidor,Cuidado personal,Kit cuidado,Paola,Frecuente,5,135000,675000.0,392000
+123,2025-02-18,norte,Online,hogar,Organizador,Jorge,minorista,7,129000,903000.0,660000
+124,2025-11-30,Centro ,Distribuidor ,Cuidado personal,Plancha cabello,Carlos,minorista,0,105000,0.0,0
+125,2025-11-23,SUR,Tienda física,Cuidado personal,Masajeador,Jorge,minorista,4,138000,552000.0,356000
+126,2025-11-10,Sur,Tienda física,Oficina,Agenda,,Frecuente,6,196000,1176000.0,836000
+127,2025-01-16,Centro ,Televentas,Accesorios,Mouse pad,Marta,Minorista,17,48000,816000.0,579000
+128,2025-10-22,Occidente,Distribuidor,Tecnología,Audífonos,Ana,Nuevo,16,221000,3536000.0,1985000
+129,2025-12-23,SUR,Online,Oficina ,Silla,Luis,Nuevo,9,169000,1521000.0,1018000
+130,2025-04-01,norte,Tienda física,Oficina ,Agenda,Carlos,Corporativo,1,171000,171000.0,118000
+131,2025-05-28,Occidente,Tienda física,hogar,Lámpara,,Corporativo ,17,150000,2550000.0,1817000
+132,2025-06-12,norte,Distribuidor,Hogar,Organizador,Ana,Frecuente,10,160000,1600000.0,980000
+133,2025-05-28,Oriente,Distribuidor,Oficina,Archivador,Daniela,Minorista,3,219000,657000.0,455000
+134,2025-02-06,Oriente,online,Cuidado personal,Masajeador,Jorge,Minorista,3,103000,309000.0,192000
+135,2025-03-06,Oriente,online,Hogar,Organizador,Jorge,Corporativo ,14,184000,2576000.0,1962000
+136,2025-07-04,Occidente,Tienda física,Oficina,Agenda,Marta,Nuevo,11,210000,2310000.0,1442000
+137,2025-08-23,norte,Online,Oficina ,Escritorio,Luis,Frecuente,5,147000,735000.0,571000
+138,2025-11-21,Oriente,online,Hogar,Organizador,Sergio,Corporativo ,4,133000,532000.0,365000
+139,2025-06-02,Norte,Tienda física,Tecnologia,Router,Carlos,Frecuente,9,270000,2430000.0,1451000
+140,2025-01-26,Oriente,Televentas,Tecnología,Audífonos,Marta,Frecuente,2,270000,540000.0,408000
+141,2025-05-22,norte,Distribuidor,Hogar,Ventilador,Daniela,minorista,4,169000,676000.0,440000
+142,2025-08-19,Centro ,Distribuidor ,Tecnologia,Router,Paola,minorista,3,283000,849000.0,518000
+143,2025-08-16,Sur,online,Oficina,Silla,Jorge,Minorista,14,140000,1960000.0,1183000
+144,2025-05-01,Oriente,Distribuidor,Tecnologia,Teclado,Marta,minorista,2,283000,566000.0,390000
+145,2025-08-19,Centro ,Tienda física,Oficina,Escritorio,Ana,Corporativo ,14,140000,1960000.0,1403000
+146,2025-11-20,Occidente,Tienda física,Hogar,Lámpara,Carlos,Frecuente,14,173000,2422000.0,1846000
+147,2025-03-06,Centro ,Distribuidor,Tecnología,Tablet,Jorge,Frecuente,2,207000,414000.0,239000
+148,24/10/2025,SUR,Online,hogar,Ventilador,Luis,Frecuente,3,161000,483000.0,332000
+149,2025-03-20,Norte,Online,Oficina ,Agenda,,minorista,5,196000,980000.0,581000
+150,2025-09-03,Centro,Online,Oficina,Silla,Paola,Minorista,18,138000,2484000.0,1437000
+4,2025-05-01,Centro ,online,Hogar,Cafetera,Paola,Corporativo,11,186000,2046000.0,1318000
+22,2025-05-20,norte,Distribuidor ,Cuidado personal,Secador,Luis,Minorista,3,93000,279000.0,192000
+48,2025-02-10,SUR,Online,Accesorios,Cable USB,Paola,Minorista,9,48000,432000.0,335000
+83,2025-05-15,norte,Distribuidor,Oficina,Silla,Sergio,Corporativo ,12,241000,2892000.0,2163000

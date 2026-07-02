@@ -1,0 +1,10 @@
+Referencias base verificadas
+
+- Microsoft Learn - Power Query documentation: https://learn.microsoft.com/en-us/power-query/
+- Microsoft Learn - What is Power Query?: https://learn.microsoft.com/en-us/power-query/power-query-what-is-power-query
+- Microsoft Learn - Query overview in Power BI Desktop: https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-query-overview
+- Microsoft Learn - Power BI data transformation, shaping, and modeling: https://learn.microsoft.com/en-us/power-bi/transform-model/
+- Microsoft Learn - Model relationships in Power BI Desktop: https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-relationships-understand
+- Microsoft Learn - Work with Model view in Power BI Desktop: https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-relationship-view
+- Datos Abiertos Colombia - Portal Nacional: https://www.datos.gov.co/
+- MinTIC - Datos abiertos Gobierno Digital: https://gobiernodigital.mintic.gov.co/692/w3-propertyvalue-47237.html
