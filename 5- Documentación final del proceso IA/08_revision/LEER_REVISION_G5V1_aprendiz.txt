@@ -1,0 +1,1 @@
+Revisión G5V1: estructura homologada con 8 carpetas. Incluye guía, teoría, datos, notebook, informe, evaluación, diapositivas y revisión. Verifique que el paquete final del aprendiz contenga dataset, notebook, informe y declaración de uso de IA.

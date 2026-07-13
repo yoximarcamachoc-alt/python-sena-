@@ -1,0 +1,19 @@
+Variable,Descripción,Tipo de variable,Tipo de dato,Tratamiento recomendado,Justificación
+ID_Cliente,Identificador único del cliente,Identificadora,Texto,No usar como predictor,"Permite trazabilidad, pero no representa comportamiento."
+Edad,Edad del cliente en años,Numérica discreta,Entero,Usar con justificación,Puede aportar diferencias de perfil.
+IngresoMensual,Ingreso mensual estimado,Numérica continua,Entero,Escalar si el modelo lo requiere,Su rango puede dominar distancias o coeficientes.
+CantidadCompras,Compras históricas del cliente,Numérica discreta,Entero,Usar como comportamiento,Mide relación histórica con la empresa.
+ComprasUltimos12M,Compras recientes,Numérica discreta,Entero,Usar como comportamiento reciente,Permite evaluar actividad actual.
+AntiguedadMeses,Meses de relación con la empresa,Numérica discreta,Entero,Usar con justificación,Indica permanencia.
+QuejasUltimos6M,Número de quejas recientes,Numérica discreta,Entero,Usar como señal de inconformidad,Puede indicar riesgo o insatisfacción.
+DiasDesdeUltimaCompra,Días desde última compra,Numérica discreta,Entero,Usar como señal de inactividad,Alta relevancia para comportamiento comercial.
+VisitasWebUltimoMes,Visitas web recientes,Numérica discreta,Entero,Usar como interacción digital,Mide actividad en canales digitales.
+TiempoPromedioSesionMin,Tiempo promedio de sesión,Numérica continua,Decimal,Usar como interacción digital,Mide profundidad de interacción.
+CuponesUsados,Cupones usados,Numérica discreta,Entero,Usar con análisis,Puede indicar sensibilidad promocional.
+Ciudad,Ciudad del cliente,Categórica nominal,Texto,Codificar si se usa,No tiene orden natural.
+CanalPreferido,Canal principal de interacción,Categórica nominal,Texto,Codificar si se usa,No tiene jerarquía.
+ZonaResidencia,Zona de residencia,Categórica nominal,Texto,Usar con criterio ético,Puede requerir revisión de sesgo o representatividad.
+Segmento,Nivel comercial del cliente,Categórica ordinal,Texto,Codificación ordinal,Orden lógico: Basico < Medio < Premium.
+Satisfaccion,Satisfacción declarada,Categórica ordinal,Texto,Codificación ordinal,Orden lógico: Baja < Media < Alta.
+Abandono,Variable objetivo de clasificación,Objetivo binaria,0/1,No usar como predictor en clustering,Puede usarse solo para análisis comparativo posterior.
+Cluster,Grupo asignado por el modelo no supervisado,Etiqueta generada,Entero,Interpretar y documentar,No es una verdad absoluta; requiere validación humana.

@@ -1,0 +1,4 @@
+Cluster,Edad,IngresoMensual,CantidadCompras,ComprasUltimos12M,AntiguedadMeses,QuejasUltimos6M,DiasDesdeUltimaCompra,VisitasWebUltimoMes,TiempoPromedioSesionMin,CuponesUsados,Abandono,Cluster
+0,37.21,3114.51,14.7,4.44,42.32,2.82,66.59,8.24,7.06,2.31,0.65,0.0
+1,41.21,2962.47,11.86,5.19,26.69,0.6,34.57,9.95,7.25,3.07,0.36,1.0
+2,42.32,2966.96,21.23,5.34,71.58,0.81,36.53,9.37,6.94,2.19,0.34,2.0

@@ -1,0 +1,962 @@
+[
+  {
+    "ID_Cliente": "C0001",
+    "VisitasWebUltimoMes": 3,
+    "TiempoPromedioSesionMin": 2.81,
+    "FuenteWeb": "Anuncio pagado"
+  },
+  {
+    "ID_Cliente": "C0002",
+    "VisitasWebUltimoMes": 4,
+    "TiempoPromedioSesionMin": 0.8,
+    "FuenteWeb": "Redes sociales"
+  },
+  {
+    "ID_Cliente": "C0003",
+    "VisitasWebUltimoMes": 4,
+    "TiempoPromedioSesionMin": 5.64,
+    "FuenteWeb": "Referido"
+  },
+  {
+    "ID_Cliente": "C0004",
+    "VisitasWebUltimoMes": 6,
+    "TiempoPromedioSesionMin": 1.96,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0005",
+    "VisitasWebUltimoMes": 9,
+    "TiempoPromedioSesionMin": 4.16,
+    "FuenteWeb": "Email"
+  },
+  {
+    "ID_Cliente": "C0006",
+    "VisitasWebUltimoMes": 7,
+    "TiempoPromedioSesionMin": 0.74,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0007",
+    "VisitasWebUltimoMes": 5,
+    "TiempoPromedioSesionMin": 3.94,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0008",
+    "VisitasWebUltimoMes": 6,
+    "TiempoPromedioSesionMin": 3.31,
+    "FuenteWeb": "Email"
+  },
+  {
+    "ID_Cliente": "C0009",
+    "VisitasWebUltimoMes": 5,
+    "TiempoPromedioSesionMin": 5.04,
+    "FuenteWeb": "Email"
+  },
+  {
+    "ID_Cliente": "C0010",
+    "VisitasWebUltimoMes": 6,
+    "TiempoPromedioSesionMin": 2.92,
+    "FuenteWeb": "Anuncio pagado"
+  },
+  {
+    "ID_Cliente": "C0011",
+    "VisitasWebUltimoMes": 6,
+    "TiempoPromedioSesionMin": 3.8,
+    "FuenteWeb": "Redes sociales"
+  },
+  {
+    "ID_Cliente": "C0012",
+    "VisitasWebUltimoMes": 9,
+    "TiempoPromedioSesionMin": 6.79,
+    "FuenteWeb": "Redes sociales"
+  },
+  {
+    "ID_Cliente": "C0013",
+    "VisitasWebUltimoMes": 4,
+    "TiempoPromedioSesionMin": 12.23,
+    "FuenteWeb": "Redes sociales"
+  },
+  {
+    "ID_Cliente": "C0014",
+    "VisitasWebUltimoMes": 7,
+    "TiempoPromedioSesionMin": 14.07,
+    "FuenteWeb": "Referido"
+  },
+  {
+    "ID_Cliente": "C0015",
+    "VisitasWebUltimoMes": 5,
+    "TiempoPromedioSesionMin": 15.66,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0016",
+    "VisitasWebUltimoMes": 5,
+    "TiempoPromedioSesionMin": 3.62,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0017",
+    "VisitasWebUltimoMes": 7,
+    "TiempoPromedioSesionMin": 4.16,
+    "FuenteWeb": "Redes sociales"
+  },
+  {
+    "ID_Cliente": "C0018",
+    "VisitasWebUltimoMes": 6,
+    "TiempoPromedioSesionMin": 11.89,
+    "FuenteWeb": "Email"
+  },
+  {
+    "ID_Cliente": "C0019",
+    "VisitasWebUltimoMes": 8,
+    "TiempoPromedioSesionMin": 8.47,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0020",
+    "VisitasWebUltimoMes": 5,
+    "TiempoPromedioSesionMin": 2.3,
+    "FuenteWeb": "Referido"
+  },
+  {
+    "ID_Cliente": "C0021",
+    "VisitasWebUltimoMes": 6,
+    "TiempoPromedioSesionMin": 1.86,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0022",
+    "VisitasWebUltimoMes": 6,
+    "TiempoPromedioSesionMin": 0.57,
+    "FuenteWeb": "Anuncio pagado"
+  },
+  {
+    "ID_Cliente": "C0023",
+    "VisitasWebUltimoMes": 10,
+    "TiempoPromedioSesionMin": 4.79,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0024",
+    "VisitasWebUltimoMes": 5,
+    "TiempoPromedioSesionMin": 8.85,
+    "FuenteWeb": "Email"
+  },
+  {
+    "ID_Cliente": "C0025",
+    "VisitasWebUltimoMes": 4,
+    "TiempoPromedioSesionMin": 2.02,
+    "FuenteWeb": "Referido"
+  },
+  {
+    "ID_Cliente": "C0026",
+    "VisitasWebUltimoMes": 3,
+    "TiempoPromedioSesionMin": 2.09,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0027",
+    "VisitasWebUltimoMes": 6,
+    "TiempoPromedioSesionMin": 5.59,
+    "FuenteWeb": "Referido"
+  },
+  {
+    "ID_Cliente": "C0028",
+    "VisitasWebUltimoMes": 3,
+    "TiempoPromedioSesionMin": 7.43,
+    "FuenteWeb": "Redes sociales"
+  },
+  {
+    "ID_Cliente": "C0029",
+    "VisitasWebUltimoMes": 4,
+    "TiempoPromedioSesionMin": 4.3,
+    "FuenteWeb": "Referido"
+  },
+  {
+    "ID_Cliente": "C0030",
+    "VisitasWebUltimoMes": 4,
+    "TiempoPromedioSesionMin": 2.02,
+    "FuenteWeb": "Email"
+  },
+  {
+    "ID_Cliente": "C0031",
+    "VisitasWebUltimoMes": 5,
+    "TiempoPromedioSesionMin": 3.12,
+    "FuenteWeb": "Redes sociales"
+  },
+  {
+    "ID_Cliente": "C0032",
+    "VisitasWebUltimoMes": 7,
+    "TiempoPromedioSesionMin": 2.79,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0033",
+    "VisitasWebUltimoMes": 3,
+    "TiempoPromedioSesionMin": 5.43,
+    "FuenteWeb": "Redes sociales"
+  },
+  {
+    "ID_Cliente": "C0034",
+    "VisitasWebUltimoMes": 5,
+    "TiempoPromedioSesionMin": 2.04,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0035",
+    "VisitasWebUltimoMes": 5,
+    "TiempoPromedioSesionMin": 1.26,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0036",
+    "VisitasWebUltimoMes": 4,
+    "TiempoPromedioSesionMin": 0.59,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0037",
+    "VisitasWebUltimoMes": 7,
+    "TiempoPromedioSesionMin": 2.33,
+    "FuenteWeb": "Redes sociales"
+  },
+  {
+    "ID_Cliente": "C0038",
+    "VisitasWebUltimoMes": 9,
+    "TiempoPromedioSesionMin": 6.93,
+    "FuenteWeb": "Anuncio pagado"
+  },
+  {
+    "ID_Cliente": "C0039",
+    "VisitasWebUltimoMes": 8,
+    "TiempoPromedioSesionMin": 1.77,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0040",
+    "VisitasWebUltimoMes": 7,
+    "TiempoPromedioSesionMin": 0.87,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0041",
+    "VisitasWebUltimoMes": 8,
+    "TiempoPromedioSesionMin": 1.29,
+    "FuenteWeb": "Email"
+  },
+  {
+    "ID_Cliente": "C0042",
+    "VisitasWebUltimoMes": 7,
+    "TiempoPromedioSesionMin": 1.6,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0043",
+    "VisitasWebUltimoMes": 5,
+    "TiempoPromedioSesionMin": 2.35,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0044",
+    "VisitasWebUltimoMes": 10,
+    "TiempoPromedioSesionMin": 1.16,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0045",
+    "VisitasWebUltimoMes": 5,
+    "TiempoPromedioSesionMin": 6.29,
+    "FuenteWeb": "Referido"
+  },
+  {
+    "ID_Cliente": "C0046",
+    "VisitasWebUltimoMes": 4,
+    "TiempoPromedioSesionMin": 1.45,
+    "FuenteWeb": "Anuncio pagado"
+  },
+  {
+    "ID_Cliente": "C0047",
+    "VisitasWebUltimoMes": 5,
+    "TiempoPromedioSesionMin": 4.5,
+    "FuenteWeb": "Redes sociales"
+  },
+  {
+    "ID_Cliente": "C0048",
+    "VisitasWebUltimoMes": 4,
+    "TiempoPromedioSesionMin": 2.3,
+    "FuenteWeb": "Email"
+  },
+  {
+    "ID_Cliente": "C0049",
+    "VisitasWebUltimoMes": 10,
+    "TiempoPromedioSesionMin": 1.9,
+    "FuenteWeb": "Redes sociales"
+  },
+  {
+    "ID_Cliente": "C0050",
+    "VisitasWebUltimoMes": 5,
+    "TiempoPromedioSesionMin": 5.93,
+    "FuenteWeb": "Email"
+  },
+  {
+    "ID_Cliente": "C0051",
+    "VisitasWebUltimoMes": 3,
+    "TiempoPromedioSesionMin": 3.37,
+    "FuenteWeb": "Email"
+  },
+  {
+    "ID_Cliente": "C0052",
+    "VisitasWebUltimoMes": 5,
+    "TiempoPromedioSesionMin": 8.09,
+    "FuenteWeb": "Email"
+  },
+  {
+    "ID_Cliente": "C0053",
+    "VisitasWebUltimoMes": 5,
+    "TiempoPromedioSesionMin": 2.39,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0054",
+    "VisitasWebUltimoMes": 10,
+    "TiempoPromedioSesionMin": 1.43,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0055",
+    "VisitasWebUltimoMes": 4,
+    "TiempoPromedioSesionMin": 2.78,
+    "FuenteWeb": "Redes sociales"
+  },
+  {
+    "ID_Cliente": "C0056",
+    "VisitasWebUltimoMes": 8,
+    "TiempoPromedioSesionMin": 2.17,
+    "FuenteWeb": "Anuncio pagado"
+  },
+  {
+    "ID_Cliente": "C0057",
+    "VisitasWebUltimoMes": 10,
+    "TiempoPromedioSesionMin": 10.3,
+    "FuenteWeb": "Email"
+  },
+  {
+    "ID_Cliente": "C0058",
+    "VisitasWebUltimoMes": 8,
+    "TiempoPromedioSesionMin": 2.09,
+    "FuenteWeb": "Anuncio pagado"
+  },
+  {
+    "ID_Cliente": "C0059",
+    "VisitasWebUltimoMes": 9,
+    "TiempoPromedioSesionMin": 4.59,
+    "FuenteWeb": "Referido"
+  },
+  {
+    "ID_Cliente": "C0060",
+    "VisitasWebUltimoMes": 5,
+    "TiempoPromedioSesionMin": 3.55,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0061",
+    "VisitasWebUltimoMes": 8,
+    "TiempoPromedioSesionMin": 1.41,
+    "FuenteWeb": "Email"
+  },
+  {
+    "ID_Cliente": "C0062",
+    "VisitasWebUltimoMes": 8,
+    "TiempoPromedioSesionMin": 1.79,
+    "FuenteWeb": "Email"
+  },
+  {
+    "ID_Cliente": "C0063",
+    "VisitasWebUltimoMes": 11,
+    "TiempoPromedioSesionMin": 4.02,
+    "FuenteWeb": "Referido"
+  },
+  {
+    "ID_Cliente": "C0064",
+    "VisitasWebUltimoMes": 6,
+    "TiempoPromedioSesionMin": 4.03,
+    "FuenteWeb": "Referido"
+  },
+  {
+    "ID_Cliente": "C0065",
+    "VisitasWebUltimoMes": 7,
+    "TiempoPromedioSesionMin": 2.75,
+    "FuenteWeb": "Email"
+  },
+  {
+    "ID_Cliente": "C0066",
+    "VisitasWebUltimoMes": 10,
+    "TiempoPromedioSesionMin": 3.29,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0067",
+    "VisitasWebUltimoMes": 6,
+    "TiempoPromedioSesionMin": 0.73,
+    "FuenteWeb": "Anuncio pagado"
+  },
+  {
+    "ID_Cliente": "C0068",
+    "VisitasWebUltimoMes": 8,
+    "TiempoPromedioSesionMin": 1.75,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0069",
+    "VisitasWebUltimoMes": 1,
+    "TiempoPromedioSesionMin": 6.92,
+    "FuenteWeb": "Anuncio pagado"
+  },
+  {
+    "ID_Cliente": "C0070",
+    "VisitasWebUltimoMes": 8,
+    "TiempoPromedioSesionMin": 2.34,
+    "FuenteWeb": "Referido"
+  },
+  {
+    "ID_Cliente": "C0071",
+    "VisitasWebUltimoMes": 4,
+    "TiempoPromedioSesionMin": 6.9,
+    "FuenteWeb": "Redes sociales"
+  },
+  {
+    "ID_Cliente": "C0072",
+    "VisitasWebUltimoMes": 8,
+    "TiempoPromedioSesionMin": 7.6,
+    "FuenteWeb": "Email"
+  },
+  {
+    "ID_Cliente": "C0073",
+    "VisitasWebUltimoMes": 9,
+    "TiempoPromedioSesionMin": 7.55,
+    "FuenteWeb": "Redes sociales"
+  },
+  {
+    "ID_Cliente": "C0074",
+    "VisitasWebUltimoMes": 3,
+    "TiempoPromedioSesionMin": 10.06,
+    "FuenteWeb": "Redes sociales"
+  },
+  {
+    "ID_Cliente": "C0075",
+    "VisitasWebUltimoMes": 0,
+    "TiempoPromedioSesionMin": 5.01,
+    "FuenteWeb": "Redes sociales"
+  },
+  {
+    "ID_Cliente": "C0076",
+    "VisitasWebUltimoMes": 5,
+    "TiempoPromedioSesionMin": 9.81,
+    "FuenteWeb": "Anuncio pagado"
+  },
+  {
+    "ID_Cliente": "C0077",
+    "VisitasWebUltimoMes": 6,
+    "TiempoPromedioSesionMin": 6.61,
+    "FuenteWeb": "Referido"
+  },
+  {
+    "ID_Cliente": "C0078",
+    "VisitasWebUltimoMes": 3,
+    "TiempoPromedioSesionMin": 0.66,
+    "FuenteWeb": "Referido"
+  },
+  {
+    "ID_Cliente": "C0079",
+    "VisitasWebUltimoMes": 3,
+    "TiempoPromedioSesionMin": 4.69,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0080",
+    "VisitasWebUltimoMes": 4,
+    "TiempoPromedioSesionMin": 14.06,
+    "FuenteWeb": "Anuncio pagado"
+  },
+  {
+    "ID_Cliente": "C0081",
+    "VisitasWebUltimoMes": 5,
+    "TiempoPromedioSesionMin": 0.53,
+    "FuenteWeb": "Anuncio pagado"
+  },
+  {
+    "ID_Cliente": "C0082",
+    "VisitasWebUltimoMes": 9,
+    "TiempoPromedioSesionMin": 3.51,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0083",
+    "VisitasWebUltimoMes": 2,
+    "TiempoPromedioSesionMin": 1.38,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0084",
+    "VisitasWebUltimoMes": 5,
+    "TiempoPromedioSesionMin": 1.87,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0085",
+    "VisitasWebUltimoMes": 3,
+    "TiempoPromedioSesionMin": 2.32,
+    "FuenteWeb": "Referido"
+  },
+  {
+    "ID_Cliente": "C0086",
+    "VisitasWebUltimoMes": 7,
+    "TiempoPromedioSesionMin": 4.67,
+    "FuenteWeb": "Email"
+  },
+  {
+    "ID_Cliente": "C0087",
+    "VisitasWebUltimoMes": 3,
+    "TiempoPromedioSesionMin": 2.72,
+    "FuenteWeb": "Email"
+  },
+  {
+    "ID_Cliente": "C0088",
+    "VisitasWebUltimoMes": 5,
+    "TiempoPromedioSesionMin": 4.57,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0089",
+    "VisitasWebUltimoMes": 4,
+    "TiempoPromedioSesionMin": 11.47,
+    "FuenteWeb": "Email"
+  },
+  {
+    "ID_Cliente": "C0090",
+    "VisitasWebUltimoMes": 6,
+    "TiempoPromedioSesionMin": 7.11,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0091",
+    "VisitasWebUltimoMes": 8,
+    "TiempoPromedioSesionMin": 4.0,
+    "FuenteWeb": "Redes sociales"
+  },
+  {
+    "ID_Cliente": "C0092",
+    "VisitasWebUltimoMes": 5,
+    "TiempoPromedioSesionMin": 2.92,
+    "FuenteWeb": "Email"
+  },
+  {
+    "ID_Cliente": "C0093",
+    "VisitasWebUltimoMes": 7,
+    "TiempoPromedioSesionMin": 4.92,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0094",
+    "VisitasWebUltimoMes": 4,
+    "TiempoPromedioSesionMin": 0.65,
+    "FuenteWeb": "Anuncio pagado"
+  },
+  {
+    "ID_Cliente": "C0095",
+    "VisitasWebUltimoMes": 5,
+    "TiempoPromedioSesionMin": 2.53,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0096",
+    "VisitasWebUltimoMes": 6,
+    "TiempoPromedioSesionMin": 5.06,
+    "FuenteWeb": "Email"
+  },
+  {
+    "ID_Cliente": "C0097",
+    "VisitasWebUltimoMes": 8,
+    "TiempoPromedioSesionMin": 3.95,
+    "FuenteWeb": "Redes sociales"
+  },
+  {
+    "ID_Cliente": "C0098",
+    "VisitasWebUltimoMes": 5,
+    "TiempoPromedioSesionMin": 7.42,
+    "FuenteWeb": "Email"
+  },
+  {
+    "ID_Cliente": "C0099",
+    "VisitasWebUltimoMes": 5,
+    "TiempoPromedioSesionMin": 6.73,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0100",
+    "VisitasWebUltimoMes": 7,
+    "TiempoPromedioSesionMin": 4.81,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0101",
+    "VisitasWebUltimoMes": 5,
+    "TiempoPromedioSesionMin": 2.73,
+    "FuenteWeb": "Referido"
+  },
+  {
+    "ID_Cliente": "C0102",
+    "VisitasWebUltimoMes": 4,
+    "TiempoPromedioSesionMin": 2.29,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0103",
+    "VisitasWebUltimoMes": 4,
+    "TiempoPromedioSesionMin": 7.72,
+    "FuenteWeb": "Anuncio pagado"
+  },
+  {
+    "ID_Cliente": "C0104",
+    "VisitasWebUltimoMes": 3,
+    "TiempoPromedioSesionMin": 4.84,
+    "FuenteWeb": "Referido"
+  },
+  {
+    "ID_Cliente": "C0105",
+    "VisitasWebUltimoMes": 6,
+    "TiempoPromedioSesionMin": 1.77,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0106",
+    "VisitasWebUltimoMes": 8,
+    "TiempoPromedioSesionMin": 6.96,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0107",
+    "VisitasWebUltimoMes": 7,
+    "TiempoPromedioSesionMin": 4.68,
+    "FuenteWeb": "Email"
+  },
+  {
+    "ID_Cliente": "C0108",
+    "VisitasWebUltimoMes": 8,
+    "TiempoPromedioSesionMin": 3.3,
+    "FuenteWeb": "Referido"
+  },
+  {
+    "ID_Cliente": "C0109",
+    "VisitasWebUltimoMes": 10,
+    "TiempoPromedioSesionMin": 6.23,
+    "FuenteWeb": "Referido"
+  },
+  {
+    "ID_Cliente": "C0110",
+    "VisitasWebUltimoMes": 7,
+    "TiempoPromedioSesionMin": 5.31,
+    "FuenteWeb": "Redes sociales"
+  },
+  {
+    "ID_Cliente": "C0111",
+    "VisitasWebUltimoMes": 8,
+    "TiempoPromedioSesionMin": 8.68,
+    "FuenteWeb": "Anuncio pagado"
+  },
+  {
+    "ID_Cliente": "C0112",
+    "VisitasWebUltimoMes": 10,
+    "TiempoPromedioSesionMin": 8.63,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0113",
+    "VisitasWebUltimoMes": 4,
+    "TiempoPromedioSesionMin": 2.44,
+    "FuenteWeb": "Referido"
+  },
+  {
+    "ID_Cliente": "C0114",
+    "VisitasWebUltimoMes": 0,
+    "TiempoPromedioSesionMin": 3.54,
+    "FuenteWeb": "Referido"
+  },
+  {
+    "ID_Cliente": "C0115",
+    "VisitasWebUltimoMes": 6,
+    "TiempoPromedioSesionMin": 2.8,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0116",
+    "VisitasWebUltimoMes": 8,
+    "TiempoPromedioSesionMin": 11.4,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0117",
+    "VisitasWebUltimoMes": 8,
+    "TiempoPromedioSesionMin": 6.28,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0118",
+    "VisitasWebUltimoMes": 6,
+    "TiempoPromedioSesionMin": 3.58,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0119",
+    "VisitasWebUltimoMes": 5,
+    "TiempoPromedioSesionMin": 2.04,
+    "FuenteWeb": "Anuncio pagado"
+  },
+  {
+    "ID_Cliente": "C0120",
+    "VisitasWebUltimoMes": 10,
+    "TiempoPromedioSesionMin": 3.85,
+    "FuenteWeb": "Redes sociales"
+  },
+  {
+    "ID_Cliente": "C0121",
+    "VisitasWebUltimoMes": 6,
+    "TiempoPromedioSesionMin": 0.38,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0122",
+    "VisitasWebUltimoMes": 11,
+    "TiempoPromedioSesionMin": 2.89,
+    "FuenteWeb": "Redes sociales"
+  },
+  {
+    "ID_Cliente": "C0123",
+    "VisitasWebUltimoMes": 6,
+    "TiempoPromedioSesionMin": 1.63,
+    "FuenteWeb": "Referido"
+  },
+  {
+    "ID_Cliente": "C0124",
+    "VisitasWebUltimoMes": 9,
+    "TiempoPromedioSesionMin": 6.86,
+    "FuenteWeb": "Email"
+  },
+  {
+    "ID_Cliente": "C0125",
+    "VisitasWebUltimoMes": 5,
+    "TiempoPromedioSesionMin": 2.92,
+    "FuenteWeb": "Redes sociales"
+  },
+  {
+    "ID_Cliente": "C0126",
+    "VisitasWebUltimoMes": 7,
+    "TiempoPromedioSesionMin": 4.04,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0127",
+    "VisitasWebUltimoMes": 3,
+    "TiempoPromedioSesionMin": 3.4,
+    "FuenteWeb": "Referido"
+  },
+  {
+    "ID_Cliente": "C0128",
+    "VisitasWebUltimoMes": 5,
+    "TiempoPromedioSesionMin": 7.05,
+    "FuenteWeb": "Anuncio pagado"
+  },
+  {
+    "ID_Cliente": "C0129",
+    "VisitasWebUltimoMes": 3,
+    "TiempoPromedioSesionMin": 7.17,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0130",
+    "VisitasWebUltimoMes": 3,
+    "TiempoPromedioSesionMin": 5.37,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0131",
+    "VisitasWebUltimoMes": 4,
+    "TiempoPromedioSesionMin": 4.65,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0132",
+    "VisitasWebUltimoMes": 5,
+    "TiempoPromedioSesionMin": 0.87,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0133",
+    "VisitasWebUltimoMes": 9,
+    "TiempoPromedioSesionMin": 3.18,
+    "FuenteWeb": "Email"
+  },
+  {
+    "ID_Cliente": "C0134",
+    "VisitasWebUltimoMes": 5,
+    "TiempoPromedioSesionMin": 7.97,
+    "FuenteWeb": "Referido"
+  },
+  {
+    "ID_Cliente": "C0135",
+    "VisitasWebUltimoMes": 9,
+    "TiempoPromedioSesionMin": 4.31,
+    "FuenteWeb": "Redes sociales"
+  },
+  {
+    "ID_Cliente": "C0136",
+    "VisitasWebUltimoMes": 4,
+    "TiempoPromedioSesionMin": 2.93,
+    "FuenteWeb": "Anuncio pagado"
+  },
+  {
+    "ID_Cliente": "C0137",
+    "VisitasWebUltimoMes": 11,
+    "TiempoPromedioSesionMin": 2.54,
+    "FuenteWeb": "Redes sociales"
+  },
+  {
+    "ID_Cliente": "C0138",
+    "VisitasWebUltimoMes": 6,
+    "TiempoPromedioSesionMin": 2.56,
+    "FuenteWeb": "Email"
+  },
+  {
+    "ID_Cliente": "C0139",
+    "VisitasWebUltimoMes": 4,
+    "TiempoPromedioSesionMin": 4.0,
+    "FuenteWeb": "Anuncio pagado"
+  },
+  {
+    "ID_Cliente": "C0140",
+    "VisitasWebUltimoMes": 5,
+    "TiempoPromedioSesionMin": 2.34,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0141",
+    "VisitasWebUltimoMes": 4,
+    "TiempoPromedioSesionMin": 7.59,
+    "FuenteWeb": "Redes sociales"
+  },
+  {
+    "ID_Cliente": "C0142",
+    "VisitasWebUltimoMes": 4,
+    "TiempoPromedioSesionMin": 0.74,
+    "FuenteWeb": "Email"
+  },
+  {
+    "ID_Cliente": "C0143",
+    "VisitasWebUltimoMes": 11,
+    "TiempoPromedioSesionMin": 6.17,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0144",
+    "VisitasWebUltimoMes": 7,
+    "TiempoPromedioSesionMin": 9.01,
+    "FuenteWeb": "Redes sociales"
+  },
+  {
+    "ID_Cliente": "C0145",
+    "VisitasWebUltimoMes": 9,
+    "TiempoPromedioSesionMin": 1.53,
+    "FuenteWeb": "Redes sociales"
+  },
+  {
+    "ID_Cliente": "C0146",
+    "VisitasWebUltimoMes": 7,
+    "TiempoPromedioSesionMin": 5.73,
+    "FuenteWeb": "Referido"
+  },
+  {
+    "ID_Cliente": "C0147",
+    "VisitasWebUltimoMes": 4,
+    "TiempoPromedioSesionMin": 4.88,
+    "FuenteWeb": "Redes sociales"
+  },
+  {
+    "ID_Cliente": "C0148",
+    "VisitasWebUltimoMes": 4,
+    "TiempoPromedioSesionMin": 1.94,
+    "FuenteWeb": "Anuncio pagado"
+  },
+  {
+    "ID_Cliente": "C0149",
+    "VisitasWebUltimoMes": 8,
+    "TiempoPromedioSesionMin": 1.4,
+    "FuenteWeb": "Redes sociales"
+  },
+  {
+    "ID_Cliente": "C0150",
+    "VisitasWebUltimoMes": 3,
+    "TiempoPromedioSesionMin": 5.16,
+    "FuenteWeb": "Anuncio pagado"
+  },
+  {
+    "ID_Cliente": "C0151",
+    "VisitasWebUltimoMes": 11,
+    "TiempoPromedioSesionMin": 11.51,
+    "FuenteWeb": "Email"
+  },
+  {
+    "ID_Cliente": "C0152",
+    "VisitasWebUltimoMes": 5,
+    "TiempoPromedioSesionMin": 8.27,
+    "FuenteWeb": "Anuncio pagado"
+  },
+  {
+    "ID_Cliente": "C0153",
+    "VisitasWebUltimoMes": 6,
+    "TiempoPromedioSesionMin": 5.76,
+    "FuenteWeb": "Redes sociales"
+  },
+  {
+    "ID_Cliente": "C0154",
+    "VisitasWebUltimoMes": 7,
+    "TiempoPromedioSesionMin": 5.1,
+    "FuenteWeb": "Email"
+  },
+  {
+    "ID_Cliente": "C0155",
+    "VisitasWebUltimoMes": 5,
+    "TiempoPromedioSesionMin": 4.31,
+    "FuenteWeb": "Email"
+  },
+  {
+    "ID_Cliente": "C0156",
+    "VisitasWebUltimoMes": 9,
+    "TiempoPromedioSesionMin": 3.52,
+    "FuenteWeb": "Redes sociales"
+  },
+  {
+    "ID_Cliente": "C0157",
+    "VisitasWebUltimoMes": 4,
+    "TiempoPromedioSesionMin": 5.34,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0158",
+    "VisitasWebUltimoMes": 2,
+    "TiempoPromedioSesionMin": 1.91,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0159",
+    "VisitasWebUltimoMes": 5,
+    "TiempoPromedioSesionMin": 6.63,
+    "FuenteWeb": "Orgánico"
+  },
+  {
+    "ID_Cliente": "C0160",
+    "VisitasWebUltimoMes": 12,
+    "TiempoPromedioSesionMin": 3.7,
+    "FuenteWeb": "Anuncio pagado"
+  }
+]

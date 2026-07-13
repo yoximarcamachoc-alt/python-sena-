@@ -1,0 +1,9 @@
+Carpeta,Elemento,Archivo esperado,Estado,Observación
+01_guia,Guía de aprendizaje,G5V1_guia_aprendizaje_documentacion_final.pdf,Obligatorio,Documento base de la actividad
+02_teoria,Manual teórico,G5V1_manual_teorico_documentacion_final.pdf,Obligatorio,Conceptos para desarrollar la guía
+03_data,Dataset final,G5V1_dataset_final_segmentado.csv,Obligatorio,Dataset preparado o segmentado
+03_data,Diccionario de datos,G5V1_diccionario_datos_final.csv,Obligatorio,"Variables, tipos, tratamientos y justificación"
+04_notebook,Notebook,G5V1_notebook_validacion_entrega.ipynb,Obligatorio,Validación técnica y evidencias
+05_informe,Informe técnico,informe_tecnico_final.pdf,Obligatorio,Documento final del proceso
+06_eval,Rúbrica,G5V1_rubrica_documentacion_final.pdf,Obligatorio,Criterios de evaluación
+08_revision,Lista de chequeo,G5V1_lista_chequeo_entrega_final.pdf,Obligatorio,Control antes de entregar

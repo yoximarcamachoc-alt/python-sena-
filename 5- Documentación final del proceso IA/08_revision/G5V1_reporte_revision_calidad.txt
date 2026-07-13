@@ -1,0 +1,8 @@
+Revisión de calidad G5V1
+- Estructura homologada con carpetas 01_guia a 08_revision.
+- Documentos principales generados en DOCX y PDF.
+- Notebooks y script de validación generados.
+- Script docente ejecutado correctamente y generó resumen de validación y perfil de clusters.
+- Notebook docente ejecutado con nbconvert.
+- Documentos DOCX renderizados visualmente para control de formato.
+- Recomendación: usar G5V1_TODO_estructura_homologada.zip como versión oficial de la Guía 5.

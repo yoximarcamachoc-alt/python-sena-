@@ -1,0 +1,161 @@
+﻿ID_Cliente,Edad,Ciudad,Segmento,FechaRegistro,CanalPreferido,TotalCompras,ValorTotalCompras,TicketPromedio,UltimaCompra,VisitasWebUltimoMes,TiempoPromedioSesionMin,FuenteWeb,Satisfaccion,QuejasUltimos6M
+C0001,56,Cali,Medio,2024-08-02,App,1,587030.4,587030.4,2025-10-23,3,2.81,Anuncio pagado,Media,2
+C0002,46,Cartagena,Básico,2024-08-22,App,1,74219.7,74219.7,2025-08-01,4,0.8,Redes sociales,Baja,1
+C0003,32,Cartagena,Básico,2025-08-10,App,2,307306.9,153653.45,2025-10-23,4,5.64,Referido,Alta,4
+C0004,60,Barranquilla,Medio,2024-01-09,Web,4,726085.8,181521.45,2025-12-19,6,1.96,Orgánico,Media,1
+C0005,25,Cartagena,Medio,2024-03-14,Web,5,1674417.2,334883.44,2025-11-20,9,4.16,Email,Media,1
+C0006,38,Medellín,Premium,2025-05-06,Web,10,2543980.0,254398.0,2025-12-30,7,0.74,Orgánico,Baja,0
+C0007,56,Cali,Premium,2024-09-09,Web,9,2654952.4,294994.71,2025-11-24,5,3.94,Orgánico,Alta,3
+C0008,36,Bogotá,Medio,2024-08-17,Teléfono,4,583146.6,145786.65,2025-12-08,6,3.31,Email,Alta,0
+C0009,40,Medellín,Medio,2025-06-02,App,4,443697.85,110924.46,2025-12-08,5,5.04,Email,Alta,0
+C0010,28,Cali,Medio,2024-06-22,Web,6,758844.45,126474.08,2025-08-15,6,2.92,Anuncio pagado,Media,1
+C0011,28,Cartagena,Medio,2024-06-16,Tienda,1,639075.0,639075.0,2025-04-18,6,3.8,Redes sociales,Alta,1
+C0012,41,Medellín,Medio,2024-06-18,Web,6,1310957.7,218492.95,2025-12-31,9,6.79,Redes sociales,Baja,1
+C0013,53,Bogotá,Medio,2025-01-27,Web,2,229903.8,114951.9,2025-07-07,4,12.23,Redes sociales,Baja,1
+C0014,57,Cali,Premium,2024-07-12,Tienda,7,2127793.6,303970.51,2025-11-20,7,14.07,Referido,Baja,1
+C0015,41,Medellín,Básico,2025-05-31,Teléfono,3,1338682.45,446227.48,2025-08-31,5,15.66,Orgánico,Media,2
+C0016,20,Barranquilla,Básico,2024-01-29,App,1,163150.15,163150.15,2025-01-20,5,3.62,Orgánico,Media,2
+C0017,39,Cartagena,Básico,2024-06-13,Teléfono,4,1893746.0,473436.5,2025-11-28,7,4.16,Redes sociales,Media,1
+C0018,19,Cartagena,Medio,2025-02-25,Web,3,401997.3,133999.1,2025-12-02,6,11.89,Email,Baja,2
+C0019,41,Barranquilla,Básico,2024-12-04,App,5,1194522.6,238904.52,2025-09-15,8,8.47,Orgánico,Media,3
+C0020,61,Cali,Medio,2025-05-10,Web,5,1466851.1,293370.22,2025-12-18,5,2.3,Referido,Alta,2
+C0021,47,Medellín,Medio,2024-12-30,Teléfono,4,2198055.4,549513.85,2025-10-30,6,1.8599999999999999,Orgánico,Media,2
+C0022,55,Cartagena,Básico,2024-12-07,Web,0,0.0,0.0,,6,0.5700000000000001,Anuncio pagado,Alta,3
+C0023,19,Bogotá,Medio,2025-05-14,App,5,1028372.3,205674.46,2025-12-15,10,4.79,Orgánico,Media,1
+C0024,38,Barranquilla,Básico,2025-05-25,Web,1,434998.8,434998.8,2025-10-01,5,8.85,Email,Alta,1
+C0025,50,Cartagena,Básico,2024-11-22,App,2,183128.0,91564.0,2025-08-02,4,2.02,Referido,Media,2
+C0026,29,Cartagena,Premium,2024-08-04,App,4,556180.6,139045.15,2025-12-26,3,2.09,Orgánico,Baja,0
+C0027,39,Barranquilla,Básico,2024-10-27,App,3,295572.1,98524.03,2025-05-07,6,5.59,Referido,Media,0
+C0028,61,Medellín,Básico,2024-05-11,App,2,296813.0,148406.5,2025-07-30,3,7.43,Redes sociales,Media,1
+C0029,42,Barranquilla,Medio,2024-03-10,App,3,966491.8,322163.93,2025-11-28,4,4.3,Referido,Alta,0
+C0030,66,Bogotá,Medio,2024-09-08,App,7,2943901.6,420557.37,2025-11-30,4,2.02,Email,Media,1
+C0031,44,Cali,Básico,2025-02-18,Web,2,853492.25,426746.12,2025-10-11,5,3.12,Redes sociales,Media,0
+C0032,59,Barranquilla,Medio,2025-03-20,App,6,1358739.3,226456.55,2025-11-30,7,2.79,Orgánico,Alta,1
+C0033,45,Medellín,Básico,2024-06-30,App,1,1197256.0,1197256.0,2025-09-21,3,5.43,Redes sociales,Media,1
+C0034,33,Medellín,Básico,2024-06-15,Teléfono,5,1505959.5,301191.9,2025-11-20,5,2.04,Orgánico,Media,2
+C0035,32,Barranquilla,Medio,2024-03-31,Web,6,669861.25,111643.54,2025-11-12,5,1.26,Orgánico,Media,0
+C0036,64,Bogotá,Medio,2025-06-14,Tienda,2,343144.0,171572.0,2025-11-20,4,0.59,Orgánico,Baja,0
+C0037,61,Barranquilla,Medio,2024-02-08,App,6,1703484.05,283914.01,2025-12-16,7,2.33,Redes sociales,Media,2
+C0038,20,Barranquilla,Medio,2024-05-05,App,5,1952828.95,390565.79,2025-12-11,9,6.93,Anuncio pagado,Media,1
+C0039,54,Cartagena,Premium,2025-03-26,App,5,1911114.1,382222.82,2025-12-19,8,1.77,Orgánico,Alta,2
+C0040,24,Bogotá,Medio,2024-06-21,App,5,2211750.2,442350.04,2025-12-30,7,0.87,Orgánico,Media,1
+C0041,38,Bogotá,Básico,2024-08-07,App,0,0.0,0.0,,8,1.29,Email,Media,1
+C0042,26,Cartagena,Medio,2024-02-27,App,5,870217.25,174043.45,2025-12-08,7,1.6,Orgánico,Media,1
+C0043,56,Barranquilla,Básico,2025-04-20,App,1,48950.0,48950.0,2025-01-07,5,2.35,Orgánico,Alta,2
+C0044,35,Medellín,Básico,2025-03-31,App,1,106110.0,106110.0,2025-07-25,10,1.16,Orgánico,Alta,1
+C0045,21,Cartagena,Básico,2024-12-26,Web,5,1962228.0,392445.6,2025-10-14,5,6.29,Referido,Media,0
+C0046,42,Cartagena,Básico,2024-01-01,App,3,1369712.8,456570.93,2025-09-20,4,1.45,Anuncio pagado,Alta,0
+C0047,31,Bogotá,Premium,2025-01-21,Web,6,2007701.9,334616.98,2025-11-10,5,4.5,Redes sociales,Media,1
+C0048,26,Medellín,Premium,2024-12-13,Web,10,2917362.5,291736.25,2025-12-26,4,2.3,Email,Media,0
+C0049,43,Cartagena,Medio,2024-07-08,Tienda,3,239660.0,79886.67,2025-09-30,10,1.9,Redes sociales,Baja,4
+C0050,19,Cali,Básico,2025-05-19,App,0,0.0,0.0,,5,5.93,Email,Media,0
+C0051,37,Cali,Básico,2024-07-09,Tienda,2,347885.2,173942.6,2025-05-29,3,3.37,Email,Media,3
+C0052,45,Cartagena,Básico,2025-05-22,Web,2,394641.8,197320.9,2025-09-15,5,8.09,Email,Alta,1
+C0053,64,Cali,Básico,2025-01-03,App,2,184050.8,92025.4,2025-12-28,5,2.39,Orgánico,Media,0
+C0054,24,Barranquilla,Medio,2025-02-12,Tienda,4,594405.7,148601.42,2025-10-29,10,1.43,Orgánico,Alta,0
+C0055,61,Bogotá,Medio,2024-04-26,Teléfono,6,3568816.0,594802.67,2025-12-22,4,2.7800000000000002,Redes sociales,Media,4
+C0056,25,Bogotá,Medio,2024-05-13,App,2,491755.0,245877.5,2025-09-08,8,2.17,Anuncio pagado,Media,0
+C0057,64,Bogotá,Básico,2024-02-27,App,5,1290746.5,258149.3,2025-09-11,10,10.3,Email,Media,0
+C0058,52,Cartagena,Premium,2025-07-09,Tienda,3,985651.9,328550.63,2025-12-08,8,2.09,Anuncio pagado,Baja,1
+C0059,31,Medellín,Medio,2024-06-21,Tienda,3,740872.0,246957.33,2025-06-09,9,4.59,Referido,Media,1
+C0060,34,Barranquilla,Medio,2024-05-28,App,3,689795.9,229931.97,2025-12-07,5,3.55,Orgánico,Baja,0
+C0061,53,Cartagena,Medio,2024-03-20,App,3,486416.3,162138.77,2025-12-10,8,1.4100000000000001,Email,Media,0
+C0062,57,Cartagena,Básico,2024-07-31,Web,3,1412616.8,470872.27,2025-09-27,8,1.79,Email,Media,2
+C0063,21,Bogotá,Básico,2024-07-21,Web,2,385901.3,192950.65,2025-10-06,11,4.02,Referido,Alta,2
+C0064,19,Cali,Básico,2024-08-16,Web,4,2366271.85,591567.96,2025-12-31,6,4.03,Referido,Baja,0
+C0065,23,Cartagena,Medio,2024-08-14,Web,4,1301766.8,325441.7,2025-06-03,7,2.75,Email,Baja,2
+C0066,59,Bogotá,Básico,2025-06-15,Web,2,874851.6,437425.8,2025-09-05,10,3.29,Orgánico,Media,1
+C0067,21,Cartagena,Básico,2025-03-16,Tienda,2,139389.4,69694.7,2025-10-16,6,0.73,Anuncio pagado,Alta,3
+C0068,46,Bogotá,Básico,2025-02-05,App,0,0.0,0.0,,8,1.75,Orgánico,Alta,0
+C0069,35,Cartagena,Básico,2024-02-16,App,2,255492.3,127746.15,2025-09-04,1,6.92,Anuncio pagado,Media,0
+C0070,43,Cali,Premium,2024-08-20,Tienda,11,4343942.35,394903.85,2025-11-30,8,2.34,Referido,Media,0
+C0071,61,Barranquilla,Medio,2024-10-31,Teléfono,2,299954.4,149977.2,2025-11-20,4,6.9,Redes sociales,Baja,0
+C0072,51,Medellín,Medio,2025-06-09,Web,2,723476.3,361738.15,2025-11-07,8,7.6,Email,Alta,2
+C0073,27,Cartagena,Básico,2024-05-22,Web,5,1951360.0,390272.0,2025-11-08,9,7.55,Redes sociales,Media,1
+C0074,53,Barranquilla,Medio,2025-02-18,App,3,911753.7,303917.9,2025-10-04,3,10.06,Redes sociales,Media,0
+C0075,31,Cartagena,Medio,2025-05-27,Web,6,1659349.75,276558.29,2025-09-23,0,5.01,Redes sociales,Media,0
+C0076,48,Medellín,Básico,2025-01-07,Web,1,236321.6,236321.6,2025-04-27,5,9.81,Anuncio pagado,Baja,1
+C0077,65,Medellín,Básico,2025-07-19,App,4,790388.4,197597.1,2025-12-23,6,6.61,Referido,Alta,1
+C0078,32,Barranquilla,Básico,2024-09-15,App,0,0.0,0.0,,3,0.66,Referido,Baja,1
+C0079,25,Cali,Medio,2025-04-15,Web,1,100730.4,100730.4,2025-11-09,3,4.69,Orgánico,Media,0
+C0080,31,Cali,Medio,2024-01-12,App,2,363800.6,181900.3,2025-11-17,4,14.06,Anuncio pagado,Media,0
+C0081,40,Bogotá,Básico,2024-11-25,App,1,264079.2,264079.2,2025-07-23,5,0.53,Anuncio pagado,Alta,1
+C0082,57,Bogotá,Básico,2024-12-23,App,2,658521.5,329260.75,2025-08-22,9,3.51,Orgánico,Alta,2
+C0083,38,Cartagena,Medio,2025-02-11,App,5,927465.8,185493.16,2025-11-05,2,1.38,Orgánico,Media,1
+C0084,33,Cartagena,Medio,2025-01-07,App,4,1910636.2,477659.05,2025-09-09,5,1.87,Orgánico,Media,0
+C0085,62,Medellín,Premium,2024-01-08,Teléfono,6,2230392.75,371732.12,2025-10-31,3,2.32,Referido,Alta,1
+C0086,35,Medellín,Medio,2024-05-01,Web,4,1423479.8,355869.95,2025-12-03,7,4.67,Email,Baja,0
+C0087,64,Bogotá,Básico,2024-12-13,Tienda,2,340483.1,170241.55,2025-05-15,3,2.7199999999999998,Email,Media,0
+C0088,41,Barranquilla,Básico,2024-03-30,Tienda,1,84670.65,84670.65,2025-07-07,5,4.57,Orgánico,Media,1
+C0089,43,Barranquilla,Medio,2024-11-11,Web,2,294149.15,147074.58,2025-10-17,4,11.47,Email,Alta,2
+C0090,42,Cali,Básico,2024-06-26,App,0,0.0,0.0,,6,7.11,Orgánico,Media,0
+C0091,62,Medellín,Medio,2025-06-23,Web,3,639341.1,213113.7,2025-08-21,8,4.0,Redes sociales,Alta,0
+C0092,58,Medellín,Premium,2024-02-10,Web,10,1115295.55,111529.56,2025-11-16,5,2.92,Email,Alta,4
+C0093,46,Cali,Medio,2025-05-16,Tienda,6,1895217.4,315869.57,2025-11-25,7,4.92,Orgánico,Baja,0
+C0094,32,Bogotá,Básico,2024-05-24,Web,2,1281705.0,640852.5,2025-09-09,4,0.65,Anuncio pagado,Media,0
+C0095,62,Cartagena,Medio,2024-07-19,App,4,2406003.8,601500.95,2025-08-16,5,2.5300000000000002,Orgánico,Media,1
+C0096,18,Cartagena,Básico,2025-04-05,App,2,487579.35,243789.68,2025-07-27,6,5.06,Email,Media,0
+C0097,42,Medellín,Medio,2025-07-11,Web,5,990485.9,198097.18,2025-11-27,8,3.95,Redes sociales,Media,1
+C0098,24,Bogotá,Premium,2025-06-30,Web,11,4401986.0,400180.55,2025-12-27,5,7.42,Email,Baja,2
+C0099,26,Cartagena,Básico,2024-09-09,Web,3,666418.8,222139.6,2025-06-05,5,6.73,Orgánico,Alta,1
+C0100,41,Cartagena,Premium,2025-01-24,Web,7,827189.7,118169.96,2025-08-16,7,4.8100000000000005,Orgánico,Alta,1
+C0101,18,Cali,Premium,2025-08-16,Teléfono,10,3990764.15,399076.42,2025-12-23,5,2.73,Referido,Media,0
+C0102,61,Cartagena,Básico,2024-09-12,Web,3,943982.2,314660.73,2025-09-12,4,2.29,Orgánico,Media,1
+C0103,25,Cartagena,Básico,2025-03-25,App,3,389556.6,129852.2,2025-12-23,4,7.72,Anuncio pagado,Baja,1
+C0104,41,Bogotá,Básico,2024-01-10,App,1,772815.6,772815.6,2025-09-19,3,4.84,Referido,Alta,2
+C0105,28,Cali,Básico,2024-08-29,App,4,877054.45,219263.61,2025-09-28,6,1.77,Orgánico,Alta,1
+C0106,34,Cali,Básico,2024-09-07,App,0,0.0,0.0,,8,6.96,Orgánico,Baja,0
+C0107,25,Cartagena,Medio,2024-01-05,App,8,1810505.25,226313.16,2025-09-05,7,4.68,Email,Baja,2
+C0108,52,Cali,Básico,2024-04-28,App,0,0.0,0.0,,8,3.3,Referido,Alta,1
+C0109,52,Cartagena,Básico,2025-01-08,App,2,1362725.2,681362.6,2025-08-07,10,6.23,Referido,Media,1
+C0110,50,Barranquilla,Premium,2024-03-05,App,8,2461386.3,307673.29,2025-11-05,7,5.31,Redes sociales,Baja,2
+C0111,22,Cali,Básico,2024-05-25,Teléfono,2,431458.1,215729.05,2025-10-10,8,8.68,Anuncio pagado,Media,2
+C0112,59,Bogotá,Medio,2024-08-11,App,5,1078651.05,215730.21,2025-12-24,10,8.63,Orgánico,Media,0
+C0113,56,Medellín,Básico,2024-08-26,Web,3,596297.7,198765.9,2025-12-07,4,2.44,Referido,Media,2
+C0114,58,Cali,Básico,2024-06-25,Web,3,1197533.7,399177.9,2025-07-26,0,3.54,Referido,Alta,4
+C0115,45,Bogotá,Medio,2024-10-08,Teléfono,5,2299256.4,459851.28,2025-11-07,6,2.8,Orgánico,Alta,3
+C0116,24,Cartagena,Medio,2024-03-03,App,4,1234745.7,308686.42,2025-10-12,8,11.4,Orgánico,Media,0
+C0117,26,Barranquilla,Premium,2024-08-04,Web,4,809069.0,202267.25,2025-09-02,8,6.28,Orgánico,Alta,2
+C0118,25,Barranquilla,Medio,2025-04-05,Teléfono,10,2479973.75,247997.38,2025-12-30,6,3.58,Orgánico,Media,1
+C0119,29,Cartagena,Medio,2025-09-01,Tienda,1,47465.8,47465.8,2025-08-23,5,2.04,Anuncio pagado,Alta,1
+C0120,51,Medellín,Básico,2024-04-14,Tienda,0,0.0,0.0,,10,3.85,Redes sociales,Media,1
+C0121,50,Barranquilla,Básico,2024-04-08,App,0,0.0,0.0,,6,0.38,Orgánico,Alta,3
+C0122,65,Medellín,Medio,2025-05-25,App,2,710759.7,355379.85,2025-11-10,11,2.89,Redes sociales,Alta,0
+C0123,40,Bogotá,Medio,2025-01-19,Tienda,5,1113823.8,222764.76,2025-11-28,6,1.63,Referido,Baja,1
+C0124,41,Cali,Premium,2025-02-08,Teléfono,8,4095615.0,511951.88,2025-12-06,9,6.86,Email,Alta,4
+C0125,54,Bogotá,Básico,2025-06-01,Web,3,990915.2,330305.07,2025-10-31,5,2.92,Redes sociales,Alta,1
+C0126,52,Bogotá,Básico,2025-04-20,Web,4,836345.75,209086.44,2025-05-19,7,4.04,Orgánico,Alta,2
+C0127,61,Bogotá,Medio,2025-03-12,App,3,582766.2,194255.4,2025-06-04,3,3.4,Referido,Baja,2
+C0128,57,Cartagena,Básico,2024-01-23,Tienda,2,707258.1,353629.05,2025-04-28,5,7.05,Anuncio pagado,Alta,0
+C0129,39,Cali,Premium,2025-07-18,App,8,2596750.9,324593.86,2025-08-22,3,7.17,Orgánico,Alta,2
+C0130,44,Barranquilla,Premium,2025-04-02,App,3,691936.0,230645.33,2025-12-26,3,5.37,Orgánico,Media,3
+C0131,52,Cartagena,Básico,2024-03-23,Web,1,203242.5,203242.5,2025-10-05,4,4.65,Orgánico,Alta,0
+C0132,18,Bogotá,Medio,2024-05-24,Web,3,590223.0,196741.0,2025-12-21,5,0.87,Orgánico,Baja,2
+C0133,52,Cartagena,Medio,2024-03-25,App,7,1246853.55,178121.94,2025-12-31,9,3.18,Email,Baja,2
+C0134,54,Medellín,Básico,2024-03-18,App,4,993849.75,248462.44,2025-11-11,5,7.97,Referido,Media,2
+C0135,64,Medellín,Premium,2025-04-01,Web,5,1346203.5,269240.7,2025-09-29,9,4.31,Redes sociales,Media,2
+C0136,31,Medellín,Medio,2024-01-01,App,3,547633.6,182544.53,2025-06-29,4,2.93,Anuncio pagado,Media,0
+C0137,20,Barranquilla,Premium,2024-02-20,Web,7,1388635.2,198376.46,2025-12-25,11,2.54,Redes sociales,Baja,1
+C0138,18,Cartagena,Básico,2025-03-21,App,1,70848.0,70848.0,2025-12-26,6,2.56,Email,Alta,2
+C0139,22,Medellín,Premium,2025-03-24,Web,8,1589686.85,198710.86,2025-10-21,4,4.0,Anuncio pagado,Baja,1
+C0140,43,Barranquilla,Básico,2025-05-02,Web,1,370396.8,370396.8,2025-03-11,5,2.34,Orgánico,Baja,1
+C0141,31,Medellín,Básico,2024-02-03,App,5,1199178.2,239835.64,2025-12-15,4,7.59,Redes sociales,Baja,1
+C0142,56,Medellín,Premium,2024-12-13,App,4,931322.4,232830.6,2025-12-01,4,0.74,Email,Media,1
+C0143,44,Medellín,Básico,2024-04-04,App,3,2252037.6,750679.2,2025-09-02,11,6.17,Orgánico,Alta,2
+C0144,26,Barranquilla,Básico,2024-03-12,App,2,389813.25,194906.62,2025-09-06,7,9.01,Redes sociales,Media,0
+C0145,32,Barranquilla,Premium,2025-07-04,Teléfono,9,2395421.9,266157.99,2025-10-15,9,1.53,Redes sociales,Alta,3
+C0146,32,Medellín,Premium,2024-06-02,App,7,951913.6,135987.66,2025-09-23,7,5.73,Referido,Baja,0
+C0147,43,Barranquilla,Medio,2024-09-06,Tienda,3,1107803.2,369267.73,2025-12-30,4,4.88,Redes sociales,Media,2
+C0148,59,Cartagena,Medio,2025-03-13,App,6,3854613.95,642435.66,2025-10-12,4,1.94,Anuncio pagado,Media,1
+C0149,30,Bogotá,Básico,2024-04-27,Tienda,1,78540.0,78540.0,2025-06-13,8,1.4,Redes sociales,Media,0
+C0150,49,Medellín,Básico,2024-11-01,Tienda,2,1623617.1,811808.55,2025-11-25,3,5.16,Anuncio pagado,Baja,2
+C0151,56,Cali,Básico,2024-09-24,Web,4,629056.5,157264.12,2025-12-05,11,11.51,Email,Alta,0
+C0152,66,Bogotá,Medio,2024-02-23,Web,4,879896.8,219974.2,2025-11-17,5,8.27,Anuncio pagado,Media,0
+C0153,49,Cartagena,Medio,2024-08-23,Web,3,308824.4,102941.47,2025-08-13,6,5.76,Redes sociales,Alta,2
+C0154,21,Bogotá,Medio,2025-01-23,App,2,197269.0,98634.5,2025-08-30,7,5.1,Email,Media,0
+C0155,47,Medellín,Medio,2025-02-04,Teléfono,2,141416.6,70708.3,2025-06-08,5,4.31,Email,Baja,1
+C0156,54,Cartagena,Básico,2024-10-29,Tienda,3,733059.9,244353.3,2025-12-22,9,3.52,Redes sociales,Media,0
+C0157,40,Bogotá,Medio,2024-07-25,Teléfono,3,1569524.0,523174.67,2025-06-18,4,5.34,Orgánico,Baja,1
+C0158,56,Medellín,Básico,2024-08-16,App,2,576549.6,288274.8,2025-12-19,2,1.9100000000000001,Orgánico,Alta,0
+C0159,62,Cali,Medio,2025-07-31,Tienda,3,875542.8,291847.6,2025-12-09,5,6.63,Orgánico,Media,3
+C0160,32,Cali,Básico,2024-03-15,Teléfono,4,888503.3,222125.82,2025-12-30,12,3.7,Anuncio pagado,Baja,0

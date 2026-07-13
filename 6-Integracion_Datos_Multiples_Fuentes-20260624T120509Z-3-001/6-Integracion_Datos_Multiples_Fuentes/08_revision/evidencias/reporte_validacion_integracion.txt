@@ -1,0 +1,8 @@
+REPORTE DE VALIDACIÓN G6V1
+========================================
+Clientes fuente: 160
+Compras fuente: 590
+Compras sin cliente: 2
+Filas dataset integrado: 160
+Columnas dataset integrado: 15
+Duplicados por ID_Cliente en dataset final: 0
