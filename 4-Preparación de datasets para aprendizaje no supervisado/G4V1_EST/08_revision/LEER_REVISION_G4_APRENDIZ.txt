@@ -1,0 +1,3 @@
+Revisión de estructura Guía 4 (aprendiz).
+Esta carpeta mantiene la estructura acordada: 01_guia, 02_teoria, 03_data, 04_notebook, 05_informe, 06_eval, 07_slides y 08_revision.
+La Guía 4 corresponde a aprendizaje no supervisado: clustering, K-Means, método del codo, silhouette e interpretación de segmentos.
