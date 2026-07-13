@@ -1,0 +1,9 @@
+﻿ID_Producto,Producto,Categoria,PrecioLista,CostoUnitario
+P001,Laptop educativa,Tecnologia,2100000,1650000
+P002,Tablet aprendizaje,Tecnologia,850000,610000
+P003,Curso analitica basica,Formacion,320000,90000
+P004,Licencia BI mensual,Software,95000,25000
+P005,Servicio soporte premium,Servicios,180000,60000
+P006,Kit conectividad,Tecnologia,260000,150000
+P007,Asesoria datos,Servicios,480000,180000
+P008,Curso Power BI,Formacion,420000,120000

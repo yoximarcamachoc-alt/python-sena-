@@ -1,0 +1,121 @@
+﻿ID_Ticket,ID_Cliente,FechaTicket,TipoTicket,EstadoTicket,DiasResolucion
+T00001,C0121,2024-03-30,Garantia,Abierto,2
+T00002,C0106,2024-10-13,Entrega,Abierto,1
+T00003,C0137,2024-09-25,Entrega,Cerrado,2
+T00004,C0093,2024-10-14,Entrega,Cerrado,5
+T00005,C0002,2024-04-15,Garantia,Cerrado,7
+T00006,C0140,2024-05-22,Otro,Cerrado,3
+T00007,C0021,2024-10-18,Facturacion,Cerrado,5
+T00008,C0080,2024-09-03,Uso plataforma,Cerrado,7
+T00009,C0088,2024-05-28,Facturacion,Cerrado,7
+T00010,C0067,2024-02-07,Entrega,Abierto,7
+T00011,C0117,2024-12-21,Uso plataforma,Cerrado,3
+T00012,C0108,2024-01-30,Entrega,Cerrado,3
+T00013,C0012,2024-07-02,Uso plataforma,Cerrado,3
+T00014,C0048,2024-02-22,Facturacion,Cerrado,1
+T00015,C0123,2024-04-09,Facturacion,Cerrado,3
+T00016,C0155,2024-04-06,Otro,Cerrado,1
+T00017,C0112,2024-09-02,Uso plataforma,Abierto,7
+T00018,C0005,2024-05-24,Uso plataforma,Escalado,5
+T00019,C0086,2024-01-27,Uso plataforma,Abierto,2
+T00020,C0084,2024-09-17,Garantia,Cerrado,2
+T00021,C0083,2024-04-26,Otro,Cerrado,4
+T00022,C0101,2024-03-05,Facturacion,Cerrado,4
+T00023,C0087,2024-05-02,Facturacion,Cerrado,3
+T00024,C0082,2024-03-17,Entrega,Cerrado,1
+T00025,C0136,2024-05-03,Facturacion,Cerrado,2
+T00026,C0154,2024-12-08,Uso plataforma,Cerrado,5
+T00027,C0080,2024-05-12,Uso plataforma,Cerrado,5
+T00028,C0060,2024-07-05,Uso plataforma,Cerrado,2
+T00029,C0062,2024-04-03,Uso plataforma,Cerrado,2
+T00030,C0093,2024-06-15,Garantia,Cerrado,2
+T00031,C0090,2024-04-20,Uso plataforma,Cerrado,10
+T00032,C0024,2024-11-12,Entrega,Cerrado,3
+T00033,C0088,2024-06-18,Facturacion,Cerrado,4
+T00034,C0110,2024-10-20,Garantia,Cerrado,2
+T00035,C0028,2024-09-30,Uso plataforma,Cerrado,4
+T00036,C0119,2024-03-01,Garantia,Cerrado,1
+T00037,C0148,2024-08-25,Garantia,Cerrado,3
+T00038,C0110,2024-10-03,Garantia,Cerrado,1
+T00039,C0133,2024-07-31,Uso plataforma,Abierto,1
+T00040,C0034,2024-06-28,Uso plataforma,Cerrado,5
+T00041,C0018,2024-05-08,Facturacion,Cerrado,4
+T00042,C0116,2024-03-08,Entrega,Cerrado,3
+T00043,C0041,2024-02-23,Entrega,Cerrado,3
+T00044,C0124,2024-09-26,Garantia,Cerrado,15
+T00045,C0113,2024-09-15,Uso plataforma,Cerrado,5
+T00046,C0033,2024-12-21,Uso plataforma,Cerrado,3
+T00047,C0077,2024-03-15,Uso plataforma,Cerrado,1
+T00048,C0003,2024-09-06,Otro,Cerrado,2
+T00049,C0096,2024-09-27,Entrega,Cerrado,1
+T00050,C0112,2024-06-05,Uso plataforma,Cerrado,2
+T00051,C0056,2024-01-29,Garantia,Cerrado,4
+T00052,C0086,2024-09-09,Entrega,Abierto,1
+T00053,C0003,2024-02-26,Uso plataforma,Cerrado,2
+T00054,C0011,2024-08-11,Entrega,Cerrado,2
+T00055,C0002,2024-10-17,Facturacion,Cerrado,2
+T00056,C0130,2024-06-12,Otro,Cerrado,3
+T00057,C0039,2024-04-16,Garantia,Abierto,5
+T00058,C0048,2024-11-18,Facturacion,Cerrado,3
+T00059,C0020,2024-11-19,Garantia,Abierto,3
+T00060,C0063,2024-05-26,Uso plataforma,Cerrado,3
+T00061,C0023,2024-08-01,Uso plataforma,Cerrado,7
+T00062,C0122,2024-01-19,Facturacion,Cerrado,7
+T00063,C0077,2024-03-21,Entrega,Cerrado,1
+T00064,C0051,2024-12-28,Facturacion,Cerrado,1
+T00065,C0123,2024-04-30,Facturacion,Escalado,3
+T00066,C0090,2024-08-04,Uso plataforma,Cerrado,3
+T00067,C0011,2024-03-10,Uso plataforma,Abierto,2
+T00068,C0154,2024-11-09,Uso plataforma,Cerrado,3
+T00069,C0040,2024-03-24,Otro,Cerrado,4
+T00070,C0081,2024-06-13,Uso plataforma,Cerrado,2
+T00071,C0143,2024-04-25,Entrega,Cerrado,5
+T00072,C0034,2024-03-19,Uso plataforma,Cerrado,15
+T00073,C0055,2024-06-04,Uso plataforma,Cerrado,1
+T00074,C0071,2024-01-22,Uso plataforma,Cerrado,3
+T00075,C0045,2024-11-21,Otro,Cerrado,2
+T00076,C0138,2024-07-23,Garantia,Abierto,4
+T00077,C0153,2024-08-29,Garantia,Cerrado,4
+T00078,C0088,2024-07-01,Uso plataforma,Escalado,15
+T00079,C0096,2024-04-05,Garantia,Cerrado,2
+T00080,C0092,2024-01-23,Otro,Abierto,2
+T00081,C0043,2024-09-23,Uso plataforma,Cerrado,4
+T00082,C0120,2024-10-18,Entrega,Abierto,1
+T00083,C0146,2024-03-10,Facturacion,Cerrado,2
+T00084,C0137,2024-06-18,Garantia,Cerrado,1
+T00085,C0130,2024-10-01,Otro,Cerrado,4
+T00086,C0070,2024-10-09,Facturacion,Cerrado,1
+T00087,C0049,2024-07-20,Uso plataforma,Escalado,7
+T00088,C0013,2024-07-24,Garantia,Escalado,5
+T00089,C0138,2024-05-07,Entrega,Abierto,4
+T00090,C0075,2024-08-24,Uso plataforma,Cerrado,3
+T00091,C0046,2024-03-04,Entrega,Abierto,10
+T00092,C0091,2024-01-18,Otro,Abierto,4
+T00093,C0055,2024-01-17,Garantia,Abierto,5
+T00094,C0027,2024-07-27,Garantia,Abierto,7
+T00095,C0151,2024-08-19,Entrega,Cerrado,10
+T00096,C0094,2024-06-02,Facturacion,Abierto,4
+T00097,C0029,2024-01-05,Uso plataforma,Cerrado,3
+T00098,C0116,2024-04-10,Uso plataforma,Cerrado,3
+T00099,C0141,2024-03-12,Facturacion,Cerrado,1
+T00100,C0109,2024-09-04,Garantia,Cerrado,2
+T00101,C0069,2024-12-21,Entrega,Cerrado,7
+T00102,C0127,2024-04-20,Garantia,Cerrado,5
+T00103,C0157,2024-07-14,Garantia,Abierto,10
+T00104,C0014,2024-10-19,Facturacion,Abierto,4
+T00105,C0147,2024-05-08,Uso plataforma,Cerrado,3
+T00106,C0145,2024-10-19,Uso plataforma,Cerrado,2
+T00107,C0050,2024-02-19,Facturacion,Abierto,10
+T00108,C0058,2024-03-09,Garantia,Abierto,5
+T00109,C0130,2024-08-12,Uso plataforma,Abierto,5
+T00110,C0087,2024-07-10,Garantia,Cerrado,2
+T00111,C0089,2024-12-08,Facturacion,Cerrado,10
+T00112,C0152,2024-03-23,Uso plataforma,Escalado,2
+T00113,C0115,2024-08-30,Garantia,Cerrado,2
+T00114,C0067,2024-06-02,Garantia,Cerrado,1
+T00115,C0113,2024-10-14,Otro,Cerrado,2
+T00116,C0018,2024-11-21,Entrega,Cerrado,1
+T00117,C0046,2024-07-25,Otro,Escalado,15
+T00118,C0077,2024-05-01,Uso plataforma,Escalado,10
+T00119,C0083,2024-01-20,Entrega,Cerrado,7
+T00120,C0069,2024-12-14,Uso plataforma,Escalado,10

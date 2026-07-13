@@ -1,0 +1,18 @@
+-- G7V1 - Medidas DAX básicas para validar el modelo
+
+Total Ventas = SUM(Fact_Ventas[VentaNeta])
+Venta Bruta = SUM(Fact_Ventas[VentaBruta])
+Valor Descuento = SUM(Fact_Ventas[ValorDescuento])
+Unidades Vendidas = SUM(Fact_Ventas[Cantidad])
+Cantidad Ventas = COUNTROWS(Fact_Ventas)
+Clientes Activos = DISTINCTCOUNT(Fact_Ventas[ID_Cliente])
+Ticket Promedio = DIVIDE([Total Ventas], [Cantidad Ventas])
+
+Costo Total = SUMX(Fact_Ventas, Fact_Ventas[Cantidad] * RELATED(Dim_Productos[CostoUnitario]))
+Margen = [Total Ventas] - [Costo Total]
+% Margen = DIVIDE([Margen], [Total Ventas])
+
+Tickets Soporte = COUNTROWS(Fact_Soporte)
+Dias Promedio Resolucion = AVERAGE(Fact_Soporte[DiasResolucion])
+
+Cumplimiento Meta Segmento = DIVIDE([Total Ventas], SUM(Metas_Segmento[MetaVentaMensual]))

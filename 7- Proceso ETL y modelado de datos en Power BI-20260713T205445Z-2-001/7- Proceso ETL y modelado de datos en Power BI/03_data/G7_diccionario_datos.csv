@@ -1,0 +1,34 @@
+﻿Tabla,Campo,Tipo sugerido Power BI,Descripcion
+Dim_Clientes,ID_Cliente,Texto,Datos maestros de clientes
+Dim_Clientes,Ciudad,Texto,Datos maestros de clientes
+Dim_Clientes,Segmento,Texto,Datos maestros de clientes
+Dim_Clientes,Edad,Numero,Datos maestros de clientes
+Dim_Clientes,IngresoMensual,Numero,Datos maestros de clientes
+Dim_Clientes,CanalPreferido,Texto,Datos maestros de clientes
+Dim_Clientes,FechaAlta,Texto,Datos maestros de clientes
+Dim_Clientes,EstadoCliente,Texto,Datos maestros de clientes
+Fact_Ventas,ID_Venta,Texto,Transacciones de ventas
+Fact_Ventas,ID_Cliente,Texto,Transacciones de ventas
+Fact_Ventas,ID_Producto,Texto,Transacciones de ventas
+Fact_Ventas,ID_Canal,Texto,Transacciones de ventas
+Fact_Ventas,FechaVenta,Texto,Transacciones de ventas
+Fact_Ventas,Cantidad,Numero,Transacciones de ventas
+Fact_Ventas,ValorUnitario,Numero,Transacciones de ventas
+Fact_Ventas,Descuento,Numero,Transacciones de ventas
+Fact_Ventas,EstadoVenta,Texto,Transacciones de ventas
+Dim_Productos,ID_Producto,Texto,Catálogo de productos
+Dim_Productos,Producto,Texto,Catálogo de productos
+Dim_Productos,Categoria,Texto,Catálogo de productos
+Dim_Productos,PrecioLista,Numero,Catálogo de productos
+Dim_Productos,CostoUnitario,Numero,Catálogo de productos
+Dim_Canales,ID_Canal,Texto,Catálogo de canales
+Dim_Canales,Canal,Texto,Catálogo de canales
+Dim_Canales,TipoCanal,Texto,Catálogo de canales
+Fact_Soporte,ID_Ticket,Texto,Tickets de soporte
+Fact_Soporte,ID_Cliente,Texto,Tickets de soporte
+Fact_Soporte,FechaTicket,Texto,Tickets de soporte
+Fact_Soporte,TipoTicket,Texto,Tickets de soporte
+Fact_Soporte,EstadoTicket,Texto,Tickets de soporte
+Fact_Soporte,DiasResolucion,Numero,Tickets de soporte
+Metas_Segmento,Segmento,Texto,Metas comerciales
+Metas_Segmento,MetaVentaMensual,Numero,Metas comerciales

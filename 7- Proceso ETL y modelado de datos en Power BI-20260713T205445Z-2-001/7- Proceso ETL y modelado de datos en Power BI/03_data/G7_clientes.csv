@@ -1,0 +1,161 @@
+﻿ID_Cliente,Ciudad,Segmento,Edad,IngresoMensual,CanalPreferido,FechaAlta,EstadoCliente
+C0001,Medellin,Basico,26,2328541,Call Center,2023-02-03,Activo
+C0002,Bogota,Basico,26,1577559,App,2023-01-27,Activo
+C0003,Cartagena,Basico,33,1469321,Web,2022-06-02,Activo
+C0004,Cartagena,Medio,42,2739944,App,2023-05-10,Activo
+C0005,Bogota,Medio,43,4041330,Tienda,2022-12-16,Activo
+C0006,Bogota,Premium,33,5091524,Call Center,2022-04-03,Activo
+C0007,Medellin,Basico,18,1268920,Web,2023-06-01,Activo
+C0008,Bogota,Basico,18,1091631,App,2023-09-24,Activo
+C0009,Medellin,Basico,30,2523122,Call Center,2022-11-06,Inactivo
+C0010,Cali,Basico,35,2596733,Tienda,2022-08-04,Activo
+C0011,Cartagena,Medio,37,4088580,Tienda,2023-01-09,Activo
+C0012,Barranquilla,Basico,18,1022184,Tienda,2022-06-19,Activo
+C0013,Cartagena,Medio,36,3971334,App,2022-04-17,Inactivo
+C0014,Cali,Medio,35,1677589,App,2023-10-24,Activo
+C0015,Bogota,Medio,18,2700870,Call Center,2023-04-22,Activo
+C0016,Cartagena,Premium,35,2669652,Web,2022-11-12,Activo
+C0017,Bogota,Medio,40,2704892,Web,2022-02-15,Activo
+C0018,Cali,Medio,40,2644422,Tienda,2022-08-19,Activo
+C0019,Bogota,Medio,23,3027543,Call Center,2023-05-13,Activo
+C0020,Cartagena,Basico,35,1840137,App,2023-05-22,Inactivo
+C0021,Barranquilla,Basico,26,2520535,Web,2022-12-15,Activo
+C0022,Medellin,Basico,29,1385465,Web,2023-03-04,Activo
+C0023,Cartagena,Basico,29,1806015,Web,2023-05-06,Activo
+C0024,Cali,Medio,39,3894291,Tienda,2023-04-07,Activo
+C0025,Barranquilla,Basico,24,1704861,Web,2024-02-03,Activo
+C0026,Medellin,Basico,30,2692583,Web,2023-01-16,Activo
+C0027,Bogota,Basico,18,1283865,Tienda,2023-10-24,Activo
+C0028,Bogota,Basico,45,2660301,Tienda,2022-03-10,Activo
+C0029,Medellin,Basico,38,2090278,Tienda,2023-05-10,Activo
+C0030,Cartagena,Basico,34,900000,Tienda,2023-07-04,Activo
+C0031,Barranquilla,Medio,32,2340955,Web,2022-08-01,Inactivo
+C0032,Medellin,Medio,29,2994979,App,2024-02-15,Activo
+C0033,Bogota,Medio,39,2877129,Tienda,2023-12-21,Activo
+C0034,Cali,Basico,26,2168989,App,2023-11-21,Activo
+C0035,Cartagena,Basico,33,1439852,Tienda,2023-12-25,Activo
+C0036,Bogota,Basico,36,1673532,Web,2024-01-20,Activo
+C0037,Barranquilla,Premium,35,5842632,Web,2022-02-11,Activo
+C0038,Bogota,Medio,26,2882872,Web,2022-03-28,Activo
+C0039,Cartagena,Basico,33,1450085,App,2022-09-25,Activo
+C0040,Medellin,Premium,52,4577101,App,2023-06-01,Activo
+C0041,Cartagena,Basico,29,1151319,Tienda,2022-08-23,Inactivo
+C0042,Cartagena,Basico,20,1987976,Tienda,2022-08-15,Activo
+C0043,Barranquilla,Premium,47,8374229,App,2022-03-29,Activo
+C0044,Bogota,Medio,20,2805633,Tienda,2023-01-28,Activo
+C0045,Bogota,Basico,23,1898244,Tienda,2022-08-29,Activo
+C0046,Cartagena,Medio,39,2445269,Call Center,2022-11-17,Activo
+C0047,Monteria,Premium,40,4906374,Web,2022-04-18,Activo
+C0048,Medellin,Medio,39,2924058,App,2022-11-30,Activo
+C0049,Cali,Medio,37,2715308,App,2022-09-16,Activo
+C0050,Cartagena,Basico,28,2296500,App,2023-06-20,Activo
+C0051,Cali,Basico,18,1572359,Web,2024-03-15,Activo
+C0052,Cartagena,Premium,41,6777897,App,2022-10-19,Activo
+C0053,Medellin,Premium,47,4737600,Tienda,2023-03-18,Activo
+C0054,Cali,Medio,36,3348742,App,2022-08-10,Activo
+C0055,Barranquilla,Basico,29,1988687,Web,2022-01-01,Activo
+C0056,Cartagena,Basico,30,1228823,Web,2022-08-24,Activo
+C0057,Monteria,Basico,39,1754844,Call Center,2022-10-14,Activo
+C0058,Barranquilla,Premium,40,4939829,App,2022-12-20,Inactivo
+C0059,Barranquilla,Premium,42,7137920,Web,2023-02-11,Activo
+C0060,Cali,Medio,32,2096749,Tienda,2022-03-18,Activo
+C0061,Barranquilla,Basico,31,900000,Web,2022-02-22,Activo
+C0062,Barranquilla,Medio,37,3614860,Call Center,2023-08-06,Activo
+C0063,Bogota,Basico,32,1985988,App,2024-03-03,Activo
+C0064,Medellin,Basico,27,1741542,Web,2023-03-25,Activo
+C0065,Barranquilla,Basico,23,1513480,App,2023-12-08,Activo
+C0066,Cali,Medio,37,3210169,Tienda,2022-07-08,Inactivo
+C0067,Monteria,Premium,38,5241431,Web,2024-02-07,Activo
+C0068,Cartagena,Premium,47,8106983,App,2024-02-16,Activo
+C0069,Barranquilla,Medio,55,3029270,Call Center,2022-03-08,Activo
+C0070,Bogota,Premium,41,4984243,Web,2023-05-18,Activo
+C0071,Medellin,Basico,36,1895978,Tienda,2022-01-23,Inactivo
+C0072,Barranquilla,Basico,31,1139326,Tienda,2023-04-26,Activo
+C0073,Bogota,Basico,18,2147597,Web,2022-02-15,Activo
+C0074,Barranquilla,Basico,30,900000,Tienda,2023-05-07,Activo
+C0075,Cali,Premium,51,8599618,Tienda,2023-03-12,Activo
+C0076,Monteria,Basico,27,1731410,App,2022-11-26,Activo
+C0077,Bogota,Basico,35,1494824,Tienda,2023-03-26,Activo
+C0078,Medellin,Basico,32,1268115,App,2023-08-24,Activo
+C0079,Bogota,Medio,28,2816935,Tienda,2022-07-22,Activo
+C0080,Medellin,Medio,28,2854924,App,2023-06-28,Activo
+C0081,Medellin,Medio,32,3978848,App,2023-01-20,Activo
+C0082,Bogota,Premium,50,7201301,Web,2022-07-12,Activo
+C0083,Bogota,Basico,21,1724057,Tienda,2022-07-10,Activo
+C0084,Cali,Basico,44,900000,Tienda,2022-11-14,Inactivo
+C0085,Barranquilla,Basico,27,2557514,Tienda,2022-01-17,Inactivo
+C0086,Monteria,Basico,36,2427365,App,2023-12-28,Activo
+C0087,Barranquilla,Basico,31,1113742,App,2023-09-27,Activo
+C0088,Cali,Medio,45,3823294,Web,2022-04-17,Activo
+C0089,Cartagena,Basico,29,1483733,Tienda,2023-07-24,Activo
+C0090,Bogota,Basico,36,2079674,Tienda,2024-03-10,Activo
+C0091,Cali,Premium,33,6926817,Tienda,2022-11-29,Activo
+C0092,Cartagena,Premium,37,7297119,Tienda,2023-06-23,Activo
+C0093,Monteria,Medio,35,2981204,App,2023-07-16,Activo
+C0094,Medellin,Basico,19,900000,Tienda,2022-02-27,Activo
+C0095,Bogota,Medio,33,3491605,App,2023-10-05,Activo
+C0096,Medellin,Medio,47,2709744,Call Center,2023-07-25,Inactivo
+C0097,Cali,Basico,25,1513618,Tienda,2023-10-31,Activo
+C0098,Cartagena,Basico,29,1500699,App,2024-03-24,Activo
+C0099,Cali,Medio,22,3370440,Tienda,2024-02-22,Activo
+C0100,Cartagena,Premium,39,4825782,App,2022-02-12,Activo
+C0101,Cartagena,Basico,46,2214869,Web,2022-06-18,Activo
+C0102,Monteria,Medio,39,2638021,Tienda,2022-06-21,Activo
+C0103,Cali,Medio,44,3586466,Web,2024-01-31,Activo
+C0104,Cali,Medio,32,4127506,App,2022-04-04,Activo
+C0105,Medellin,Basico,39,900000,Tienda,2023-05-10,Activo
+C0106,Bogota,Premium,32,7057931,Tienda,2023-12-15,Inactivo
+C0107,Cartagena,Medio,34,3711632,Tienda,2023-03-06,Activo
+C0108,Barranquilla,Basico,36,1958927,Tienda,2022-04-02,Activo
+C0109,Bogota,Medio,47,3699461,App,2023-09-08,Activo
+C0110,Cartagena,Basico,30,1417874,App,2024-02-21,Activo
+C0111,Medellin,Basico,34,1686355,Call Center,2023-11-12,Activo
+C0112,Barranquilla,Medio,29,3963119,Web,2023-07-21,Activo
+C0113,Barranquilla,Medio,43,4159604,Web,2022-07-28,Activo
+C0114,Barranquilla,Basico,32,1804688,Web,2023-09-11,Activo
+C0115,Cali,Medio,32,1986034,Web,2024-02-17,Inactivo
+C0116,Bogota,Basico,19,2091300,Web,2023-01-04,Activo
+C0117,Monteria,Medio,36,3248545,App,2023-06-27,Inactivo
+C0118,Bogota,Basico,24,1659470,Web,2022-12-03,Activo
+C0119,Bogota,Basico,34,1296659,Web,2022-01-07,Activo
+C0120,Bogota,Basico,31,1521110,App,2023-10-18,Inactivo
+C0121,Cartagena,Basico,39,900000,Web,2022-10-30,Activo
+C0122,Monteria,Medio,37,2273972,Web,2022-11-24,Activo
+C0123,Cartagena,Basico,38,1993581,Tienda,2023-08-04,Inactivo
+C0124,Barranquilla,Medio,45,2557712,Tienda,2024-03-28,Activo
+C0125,Monteria,Basico,18,2191840,App,2022-10-21,Activo
+C0126,Bogota,Premium,35,4316107,App,2023-07-21,Activo
+C0127,Monteria,Basico,22,1523095,Web,2024-03-11,Activo
+C0128,Monteria,Basico,35,1741947,Call Center,2022-04-04,Activo
+C0129,Bogota,Medio,34,2957394,Call Center,2023-08-05,Activo
+C0130,Cali,Basico,35,978633,Web,2023-05-14,Inactivo
+C0131,Barranquilla,Basico,19,1849325,Web,2023-06-07,Activo
+C0132,Bogota,Medio,31,2677636,Call Center,2022-06-11,Activo
+C0133,Barranquilla,Basico,21,1327074,Web,2023-01-23,Activo
+C0134,Medellin,Premium,44,8774981,Tienda,2023-09-14,Activo
+C0135,Cali,Basico,30,2026532,Web,2022-11-04,Activo
+C0136,Cali,Basico,24,2383932,Tienda,2023-12-22,Activo
+C0137,Cali,Medio,51,2912364,Call Center,2023-04-29,Activo
+C0138,Barranquilla,Medio,30,3864345,Call Center,2022-06-26,Inactivo
+C0139,Cartagena,Basico,33,900000,App,2023-02-08,Activo
+C0140,Medellin,Premium,45,7981828,Tienda,2023-02-21,Activo
+C0141,Cartagena,Premium,47,8304418,Call Center,2023-12-29,Activo
+C0142,Cartagena,Premium,50,5415541,Call Center,2023-02-21,Activo
+C0143,Bogota,Basico,33,1320162,Tienda,2022-03-15,Activo
+C0144,Cartagena,Premium,40,7851876,Web,2022-03-01,Activo
+C0145,Cartagena,Medio,43,2733341,Tienda,2023-01-27,Activo
+C0146,Medellin,Basico,30,1223794,App,2022-08-15,Activo
+C0147,Monteria,Medio,53,2939642,Web,2023-10-08,Activo
+C0148,Monteria,Premium,43,3419054,Tienda,2022-05-11,Inactivo
+C0149,Medellin,Medio,47,2493311,App,2024-01-01,Activo
+C0150,Barranquilla,Medio,37,4394855,App,2023-10-17,Activo
+C0151,Barranquilla,Basico,31,1161733,Call Center,2022-10-04,Activo
+C0152,Cartagena,Medio,51,3529210,Web,2023-01-20,Activo
+C0153,Monteria,Premium,45,4843776,Tienda,2022-04-07,Activo
+C0154,Cali,Medio,34,3460120,Web,2022-11-17,Activo
+C0155,Cartagena,Medio,33,3012356,Web,2022-09-02,Activo
+C0156,Cartagena,Medio,35,2849612,Tienda,2023-06-06,Activo
+C0157,Cartagena,Premium,57,5731654,Tienda,2022-12-13,Activo
+C0158,Medellin,Medio,40,3336146,Web,2023-10-20,Activo
+C0159,Bogota,Medio,41,3279715,Tienda,2022-12-26,Activo
+C0160,Barranquilla,Basico,29,900000,Web,2023-08-28,Activo
