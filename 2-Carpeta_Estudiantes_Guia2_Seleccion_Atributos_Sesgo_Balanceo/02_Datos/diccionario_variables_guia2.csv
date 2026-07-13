@@ -1,0 +1,19 @@
+﻿Variable,Descripción,Tipo de variable,Tipo de dato esperado,Tratamiento recomendado en Guía 2
+ID_Cliente,Identificador único del cliente,Identificadora,Texto,No usar como predictor; solo trazabilidad.
+Edad,Edad del cliente en años,Numérica discreta,Entero,Evaluar como atributo candidato.
+IngresoMensual,Ingreso mensual estimado,Numérica continua,Entero,Evaluar como atributo candidato y escalar si el modelo lo requiere.
+CantidadCompras,Cantidad histórica de compras,Numérica discreta,Entero,Atributo candidato.
+ComprasUltimos12M,Compras realizadas durante los últimos 12 meses,Numérica discreta,Entero,Atributo candidato; revisar redundancia con CantidadCompras.
+AntiguedadMeses,Meses de relación con la empresa,Numérica discreta,Entero,Atributo candidato.
+QuejasUltimos6M,Número de quejas recientes,Numérica discreta,Entero,Atributo candidato.
+DiasDesdeUltimaCompra,Días desde la última compra,Numérica discreta,Entero,Atributo candidato importante para abandono.
+VisitasWebUltimoMes,Número de visitas web recientes,Numérica discreta,Entero,Atributo candidato.
+TiempoPromedioSesionMin,Promedio de minutos por sesión,Numérica continua,Decimal,Atributo candidato.
+CuponesUsados,Cantidad de cupones usados,Numérica discreta,Entero,Atributo candidato.
+Ciudad,Ciudad del cliente,Categórica nominal,Texto,Codificación nominal si se usa como predictor.
+CanalPreferido,Canal de interacción principal,Categórica nominal,Texto,Codificación nominal si se usa como predictor.
+ZonaResidencia,Zona de residencia,Categórica nominal / variable de revisión de representatividad,Texto,Puede usarse para auditoría de sesgo y representatividad; justificar si se usa como predictor.
+Segmento,Nivel comercial del cliente,Categórica ordinal,Texto,Orden correcto: Básico < Medio < Premium. No tratar como nominal.
+Satisfaccion,Nivel de satisfacción declarado,Categórica ordinal,Texto,Orden correcto: Baja < Media < Alta.
+CodigoCampania,Código de campaña comercial,Categórica nominal de alta cardinalidad relativa / posible ruido,Texto,Revisar pertinencia; puede ser variable poco estable.
+Abandono,"Variable objetivo: 1 si el cliente abandonó, 0 si no",Objetivo binaria,Entero 0/1,No usar como predictor; revisar desbalance de clases.

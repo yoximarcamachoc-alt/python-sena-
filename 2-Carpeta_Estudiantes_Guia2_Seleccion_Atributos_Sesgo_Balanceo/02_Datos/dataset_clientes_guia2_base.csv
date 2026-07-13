@@ -1,0 +1,361 @@
+﻿ID_Cliente,Edad,IngresoMensual,CantidadCompras,ComprasUltimos12M,AntiguedadMeses,QuejasUltimos6M,DiasDesdeUltimaCompra,VisitasWebUltimoMes,TiempoPromedioSesionMin,CuponesUsados,Ciudad,CanalPreferido,ZonaResidencia,Segmento,Satisfaccion,CodigoCampania,Abandono
+C2000,18,1842000,2,1,10,0,36,0,7.3,2,Bogotá,Tienda física,Rural,Básico,Alta,B,0
+C2001,33,2326000,2,4,7,0,38,5,9.2,1,Barranquilla,Web,Urbana,Básico,Media,A,0
+C2002,48,5048000,8,9,16,0,6,8,8.0,0,Medellín,Referido,Urbana,Medio,Alta,A,0
+C2003,53,3641000,4,5,7,1,29,4,5.7,1,Cali,Tienda física,Urbana,Medio,Baja,D,0
+C2004,48,2144000,4,4,34,0,42,2,8.3,4,Cali,Redes sociales,Rural,Básico,Alta,B,0
+C2005,43,5812000,4,5,29,2,26,8,10.7,3,Medellín,Web,Rural,Básico,Baja,E,1
+C2006,51,1931000,6,6,32,0,30,10,8.8,1,Barranquilla,Web,Urbana,Básico,Alta,F,0
+C2007,30,3955000,5,5,24,2,8,14,1.0,1,Bogotá,Web,Urbana,Básico,Baja,A,1
+C2008,38,2908000,8,8,16,0,38,4,7.4,4,Bogotá,Web,Urbana,Medio,Media,B,0
+C2009,28,1996000,14,13,14,0,15,8,9.5,3,Medellín,Web,Urbana,Premium,Alta,E,0
+C2010,38,2214000,4,3,17,1,44,10,5.6,6,Cali,Web,Periurbana,Básico,Media,A,1
+C2011,43,3609000,10,9,30,1,15,4,2.4,3,Cartagena,Redes sociales,Urbana,Premium,Media,B,0
+C2012,21,3704000,6,4,32,1,16,7,7.4,2,Cali,Referido,Urbana,Básico,Media,A,1
+C2013,37,3368000,5,5,20,2,54,2,3.6,0,Bogotá,Tienda física,Rural,Premium,Media,F,0
+C2014,33,7078000,3,5,52,5,68,3,5.6,1,Cali,Redes sociales,Periurbana,Medio,Baja,E,1
+C2015,25,2369000,2,1,16,5,18,7,6.4,2,Medellín,Web,Periurbana,Básico,Baja,D,1
+C2016,35,3251000,2,2,18,3,25,3,5.0,3,Medellín,Tienda física,Urbana,Básico,Media,D,0
+C2017,40,3589000,3,1,21,1,29,7,5.2,4,Barranquilla,Web,Urbana,Básico,Media,C,1
+C2018,42,2909000,8,7,42,1,33,4,7.3,1,Medellín,Redes sociales,Urbana,Premium,Media,A,0
+C2019,54,3356000,5,7,15,2,68,5,7.2,3,Medellín,Tienda física,Urbana,Medio,Media,F,0
+C2020,37,2468000,5,7,37,1,50,9,8.3,3,Cali,Tienda física,Urbana,Básico,Alta,A,0
+C2021,53,2970000,11,11,9,0,6,8,10.3,2,Bogotá,Redes sociales,Periurbana,Medio,Media,D,0
+C2022,40,3640000,6,6,15,0,42,2,7.6,4,Barranquilla,Redes sociales,Urbana,Medio,Alta,B,0
+C2023,34,3500000,15,17,13,2,10,10,9.6,1,Cali,Web,Urbana,Medio,Media,C,0
+C2024,37,2021000,2,2,23,0,3,6,8.8,2,Medellín,Web,Urbana,Básico,Media,B,0
+C2025,45,3401000,10,11,13,0,3,7,8.0,3,Cali,Referido,Urbana,Medio,Alta,E,0
+C2026,29,2095000,3,5,17,1,11,5,10.2,4,Bogotá,Redes sociales,Urbana,Básico,Baja,E,1
+C2027,38,4074000,9,11,23,0,45,7,14.0,3,Bogotá,Web,Urbana,Premium,Alta,A,0
+C2028,37,1528000,4,7,39,0,14,2,7.4,0,Cali,Web,Urbana,Medio,Media,D,0
+C2029,29,4022000,4,4,17,1,20,4,9.6,1,Barranquilla,Redes sociales,Urbana,Básico,Baja,D,0
+C2030,44,3113000,4,3,20,1,88,9,9.7,1,Barranquilla,Web,Urbana,Básico,Alta,E,0
+C2031,49,5019000,5,3,43,2,36,4,5.6,6,Bogotá,Redes sociales,Urbana,Básico,Baja,C,0
+C2032,23,1826000,7,6,21,1,56,3,4.6,3,Medellín,Tienda física,Urbana,Básico,Media,A,1
+C2033,35,2448000,16,17,34,1,70,6,6.6,2,Cartagena,Redes sociales,Rural,Premium,Media,E,1
+C2034,47,4830000,4,2,32,0,33,7,3.2,0,Bogotá,Web,Urbana,Medio,Alta,B,0
+C2035,31,2152000,3,3,40,1,51,8,9.7,0,Bogotá,Web,Urbana,Básico,Baja,F,0
+C2036,44,3125000,3,6,27,0,38,5,11.4,3,Barranquilla,Redes sociales,Urbana,Básico,Media,B,0
+C2037,23,3601000,4,4,15,0,44,1,8.6,3,Bogotá,Tienda física,Periurbana,Básico,Media,B,0
+C2038,55,5551000,5,6,23,2,30,6,6.6,2,Cali,Web,Urbana,Medio,Media,A,0
+C2039,42,1569000,14,14,23,2,59,2,9.8,0,Medellín,Redes sociales,Urbana,Premium,Baja,E,1
+C2040,33,6769000,4,6,13,0,19,4,6.6,6,Barranquilla,Referido,Rural,Medio,Media,C,0
+C2041,31,5160000,6,6,21,0,90,8,6.8,3,Cali,Web,Urbana,Medio,Media,F,0
+C2042,27,3424000,3,2,9,2,21,3,4.8,3,Bogotá,Referido,Urbana,Premium,Baja,F,0
+C2043,42,9800000,8,6,19,1,72,6,9.3,1,Bogotá,Redes sociales,Urbana,Medio,Media,A,0
+C2044,22,1890000,6,6,5,0,12,7,7.7,2,Barranquilla,Web,Rural,Medio,Media,F,1
+C2045,38,4235000,4,0,35,0,30,5,9.0,3,Barranquilla,Tienda física,Urbana,Básico,Media,E,0
+C2046,46,1380000,4,5,53,0,15,4,7.6,1,Cali,Redes sociales,Rural,Medio,Alta,C,0
+C2047,35,2963000,4,4,19,0,151,13,2.5,7,Cali,Web,Rural,Básico,Media,B,1
+C2048,42,4787000,9,10,13,0,53,8,4.1,1,Barranquilla,Web,Urbana,Medio,Media,B,0
+C2049,39,1745000,2,2,41,1,27,5,8.0,2,Cali,Web,Urbana,Básico,Media,E,0
+C2050,37,2690000,1,2,23,2,13,9,10.6,4,Bogotá,Web,Periurbana,Básico,Media,A,0
+C2051,50,3171000,3,2,56,0,6,14,4.8,0,Cali,Web,Urbana,Básico,Media,A,0
+C2052,36,2290000,2,4,10,0,56,6,7.2,2,Bogotá,Tienda física,Urbana,Básico,Media,F,0
+C2053,31,2649000,3,1,32,0,62,9,10.0,0,Bogotá,Web,Urbana,Medio,Media,D,0
+C2054,31,2499000,5,4,31,1,52,4,8.8,2,Barranquilla,Web,Urbana,Medio,Alta,F,0
+C2055,23,2255000,4,3,10,0,26,7,5.8,0,Cartagena,Web,Periurbana,Medio,Alta,B,0
+C2056,45,6644000,10,9,5,1,21,6,6.1,1,Medellín,Referido,Urbana,Premium,Baja,F,0
+C2057,43,7019000,8,5,72,0,25,8,10.9,1,Cali,Tienda física,Urbana,Medio,Baja,B,1
+C2058,31,4811000,3,0,19,0,46,7,12.6,5,Bogotá,Web,Urbana,Básico,Alta,E,0
+C2059,55,3780000,2,1,14,1,16,9,7.8,0,Bogotá,Web,Urbana,Básico,Alta,A,0
+C2060,22,1864000,10,8,18,4,29,6,8.1,2,Bogotá,Web,Periurbana,Premium,Baja,B,1
+C2061,36,6205000,8,9,27,1,56,5,3.3,1,Cali,Redes sociales,Urbana,Medio,Media,E,0
+C2062,39,2403000,12,12,37,1,44,3,3.3,1,Cartagena,Redes sociales,Periurbana,Premium,Media,E,0
+C2063,35,4728000,5,5,13,1,99,1,10.1,2,Bogotá,Redes sociales,Rural,Básico,Media,A,1
+C2064,38,5227000,6,7,7,1,19,7,9.0,2,Medellín,Web,Periurbana,Medio,Media,F,0
+C2065,23,4850000,7,6,23,1,42,8,6.1,2,Cartagena,Web,Urbana,Básico,Alta,D,0
+C2066,39,2735000,1,0,14,1,23,6,9.1,1,Medellín,Web,Rural,Básico,Media,D,0
+C2067,47,1427000,7,11,42,2,32,4,6.6,0,Bogotá,Redes sociales,Rural,Medio,Baja,F,0
+C2068,46,3427000,11,13,47,1,27,8,6.5,1,Medellín,Web,Urbana,Premium,Media,F,0
+C2069,32,2457000,12,12,19,0,25,2,4.7,2,Medellín,Redes sociales,Urbana,Premium,Alta,B,1
+C2070,36,2297000,6,6,33,0,21,5,6.8,2,Barranquilla,Web,Urbana,Medio,Alta,B,0
+C2071,20,2232000,6,5,44,0,53,5,9.9,2,Barranquilla,Redes sociales,Periurbana,Medio,Media,D,0
+C2072,33,4841000,11,11,21,0,13,2,11.8,1,Cali,Redes sociales,Periurbana,Medio,Alta,D,0
+C2073,42,1288000,3,2,29,2,67,2,7.5,1,Cali,Referido,Urbana,Básico,Media,B,0
+C2074,24,1355000,8,6,7,1,55,3,8.0,0,Cali,Redes sociales,Periurbana,Medio,Media,B,0
+C2075,31,1227000,7,10,21,0,49,8,7.4,1,Medellín,Tienda física,Urbana,Premium,Alta,D,0
+C2076,27,4128000,4,4,13,0,28,10,9.1,4,Bogotá,Tienda física,Urbana,Básico,Alta,D,0
+C2077,46,903000,3,2,30,0,49,4,7.3,6,Cali,Web,Urbana,Básico,Media,B,0
+C2078,45,7508000,10,9,4,0,54,1,10.3,1,Barranquilla,Redes sociales,Urbana,Premium,Media,D,0
+C2079,47,3191000,4,4,27,0,28,8,9.0,3,Barranquilla,Web,Urbana,Básico,Alta,B,0
+C2080,42,2556000,6,3,25,2,51,1,7.5,4,Cali,Redes sociales,Urbana,Básico,Alta,F,0
+C2081,25,2058000,8,8,8,0,70,6,3.7,1,Cali,Referido,Urbana,Medio,Baja,C,0
+C2082,27,4964000,1,1,35,0,21,9,4.3,1,Bogotá,Web,Urbana,Básico,Media,F,1
+C2083,30,2483000,2,1,6,0,46,4,5.5,2,Bogotá,Tienda física,Urbana,Básico,Alta,D,1
+C2084,43,2602000,4,4,6,0,54,5,10.7,3,Bogotá,Redes sociales,Urbana,Básico,Alta,E,0
+C2085,39,7726000,6,7,22,0,40,4,7.2,3,Medellín,Tienda física,Periurbana,Medio,Alta,E,0
+C2086,36,4322000,4,1,26,2,91,7,7.1,1,Barranquilla,Web,Rural,Medio,Alta,F,0
+C2087,52,2053000,3,3,6,0,78,11,10.0,3,Bogotá,Web,Urbana,Básico,Media,C,0
+C2088,31,1051000,8,8,31,0,45,14,2.9,1,Bogotá,Web,Urbana,Medio,Media,F,0
+C2089,41,3338000,9,8,47,0,25,7,10.5,1,Bogotá,Web,Urbana,Medio,Media,F,0
+C2090,46,2115000,1,0,37,4,55,10,6.4,1,Barranquilla,Web,Periurbana,Básico,Media,A,1
+C2091,27,1379000,9,10,14,1,33,10,9.7,1,Barranquilla,Web,Periurbana,Premium,Media,C,0
+C2092,28,2227000,6,6,32,0,1,8,6.3,1,Barranquilla,Web,Urbana,Medio,Alta,A,0
+C2093,32,3137000,3,4,11,2,66,7,8.4,3,Medellín,Tienda física,Periurbana,Básico,Baja,B,0
+C2094,18,5569000,3,4,30,0,22,7,10.6,2,Cartagena,Web,Urbana,Básico,Media,D,0
+C2095,38,1074000,13,12,29,0,28,6,10.8,2,Barranquilla,Tienda física,Urbana,Premium,Alta,A,0
+C2096,58,4252000,6,8,20,0,67,6,6.1,0,Medellín,Tienda física,Rural,Medio,Media,E,1
+C2097,21,5036000,5,4,36,0,99,0,9.0,4,Bogotá,Tienda física,Urbana,Básico,Media,D,0
+C2098,38,2145000,6,4,28,0,38,8,12.5,1,Medellín,Web,Urbana,Medio,Alta,C,0
+C2099,44,2361000,5,6,25,0,36,5,8.7,2,Bogotá,Web,Urbana,Básico,Alta,A,0
+C2100,27,3911000,2,2,26,1,51,4,5.7,3,Medellín,Tienda física,Rural,Básico,Baja,B,0
+C2101,55,2013000,2,0,3,0,54,3,5.2,4,Barranquilla,Redes sociales,Urbana,Básico,Alta,F,1
+C2102,39,3444000,4,5,23,0,2,2,3.4,3,Medellín,Redes sociales,Urbana,Básico,Alta,F,0
+C2103,18,3367000,4,6,20,0,100,2,5.2,1,Barranquilla,Tienda física,Rural,Medio,Media,B,1
+C2104,38,6136000,12,12,23,0,8,1,12.1,5,Medellín,Web,Periurbana,Premium,Alta,D,0
+C2105,24,5448000,5,8,20,2,9,4,5.8,3,Medellín,Web,Periurbana,Básico,Baja,D,0
+C2106,23,1576000,17,16,21,3,41,6,9.1,0,Barranquilla,Redes sociales,Urbana,Premium,Baja,B,0
+C2107,42,1695000,2,2,40,0,35,10,5.2,3,Medellín,Web,Urbana,Básico,Media,F,0
+C2108,30,2343000,1,2,5,2,23,8,9.3,2,Bogotá,Web,Urbana,Básico,Media,E,0
+C2109,40,4107000,0,2,67,0,3,2,5.6,5,Cartagena,Tienda física,Urbana,Básico,Alta,E,0
+C2110,32,3635000,2,3,14,1,58,4,5.2,2,Cartagena,Tienda física,Rural,Básico,Alta,A,0
+C2111,50,3107000,3,4,22,1,53,6,10.3,6,Medellín,Web,Rural,Básico,Alta,F,0
+C2112,33,2557000,4,2,46,2,5,6,5.4,1,Cali,Tienda física,Urbana,Medio,Baja,F,0
+C2113,29,3039000,6,5,30,1,35,1,7.2,0,Bogotá,Redes sociales,Rural,Medio,Media,D,0
+C2114,18,3815000,6,5,22,0,34,8,7.9,5,Medellín,Tienda física,Urbana,Básico,Media,E,1
+C2115,18,1453000,11,9,39,1,7,9,4.5,1,Barranquilla,Web,Urbana,Premium,Baja,F,0
+C2116,52,2467000,5,8,23,4,22,3,11.5,2,Barranquilla,Redes sociales,Periurbana,Básico,Baja,A,1
+C2117,18,1907000,3,3,21,2,110,6,11.1,2,Bogotá,Redes sociales,Urbana,Básico,Baja,E,1
+C2118,47,2410000,5,5,16,1,65,4,10.0,0,Cali,Redes sociales,Rural,Medio,Alta,E,0
+C2119,38,3428000,10,9,41,0,97,7,11.8,0,Medellín,Web,Periurbana,Medio,Media,D,0
+C2120,40,2885000,2,2,14,1,52,9,7.5,0,Medellín,Web,Urbana,Medio,Alta,F,0
+C2121,35,2513000,10,10,36,1,19,1,8.6,1,Cali,Web,Rural,Medio,Media,B,1
+C2122,34,1599000,2,3,12,0,14,2,10.8,6,Cartagena,Redes sociales,Rural,Básico,Alta,B,0
+C2123,57,3084000,3,2,40,0,29,3,6.9,2,Cartagena,Tienda física,Urbana,Básico,Alta,D,0
+C2124,51,2603000,1,2,10,0,40,4,5.9,2,Medellín,Web,Rural,Básico,Media,C,1
+C2125,27,3645000,5,6,3,0,30,3,1.0,0,Cali,Tienda física,Urbana,Medio,Alta,B,1
+C2126,28,4195000,3,0,14,4,42,6,11.1,4,Bogotá,Tienda física,Urbana,Básico,Media,E,1
+C2127,53,8038000,7,6,20,1,82,6,8.2,2,Barranquilla,Tienda física,Urbana,Básico,Alta,C,0
+C2128,32,5135000,9,10,65,0,40,4,9.1,0,Barranquilla,Web,Urbana,Premium,Media,E,0
+C2129,42,990000,3,3,17,0,4,3,7.7,1,Barranquilla,Tienda física,Periurbana,Básico,Alta,E,0
+C2130,37,2665000,3,3,27,2,75,2,8.5,2,Cartagena,Tienda física,Rural,Básico,Media,D,1
+C2131,38,1851000,9,8,21,0,22,3,5.5,0,Cartagena,Redes sociales,Urbana,Medio,Media,B,0
+C2132,47,2353000,6,7,20,1,39,5,11.7,2,Cali,Redes sociales,Urbana,Medio,Media,E,0
+C2133,33,2831000,8,8,29,1,55,7,10.4,2,Cali,Web,Urbana,Medio,Alta,B,0
+C2134,24,2780000,2,2,27,1,92,3,8.6,0,Barranquilla,Referido,Urbana,Básico,Baja,F,1
+C2135,25,5548000,9,7,42,0,72,3,9.1,1,Cartagena,Tienda física,Urbana,Premium,Media,A,0
+C2136,46,4848000,4,5,15,0,11,3,7.2,2,Bogotá,Redes sociales,Urbana,Básico,Media,B,0
+C2137,46,3275000,3,2,42,1,32,10,7.6,0,Medellín,Web,Urbana,Básico,Media,E,0
+C2138,18,4039000,5,4,26,1,41,10,6.0,4,Bogotá,Web,Urbana,Básico,Media,D,0
+C2139,39,1936000,4,4,64,0,55,8,9.5,2,Medellín,Web,Urbana,Básico,Alta,C,0
+C2140,29,2419000,4,5,29,5,45,1,6.9,2,Cartagena,Tienda física,Urbana,Básico,Baja,C,0
+C2141,41,2891000,1,2,37,1,39,5,6.9,3,Cali,Redes sociales,Urbana,Básico,Media,B,0
+C2142,27,3340000,4,5,44,2,49,13,10.4,1,Medellín,Web,Urbana,Medio,Media,D,0
+C2143,49,3951000,6,7,22,0,30,2,6.2,1,Cali,Referido,Periurbana,Premium,Media,F,0
+C2144,31,1729000,4,2,15,2,58,8,1.6,1,Cartagena,Referido,Urbana,Básico,Media,E,1
+C2145,25,2117000,2,4,26,1,36,5,2.6,0,Bogotá,Tienda física,Urbana,Básico,Alta,F,0
+C2146,38,2897000,6,6,13,0,32,3,5.4,1,Medellín,Referido,Urbana,Premium,Media,D,0
+C2147,39,2335000,3,4,12,1,14,6,14.0,1,Cali,Referido,Rural,Medio,Media,E,0
+C2148,22,5654000,14,13,45,1,92,6,6.9,4,Bogotá,Web,Periurbana,Premium,Baja,F,0
+C2149,27,3170000,6,8,16,2,32,7,9.4,1,Cartagena,Tienda física,Urbana,Medio,Baja,B,1
+C2150,42,2578000,1,1,8,1,25,2,9.3,2,Bogotá,Tienda física,Urbana,Básico,Alta,A,0
+C2151,27,4101000,3,1,7,1,72,13,12.2,3,Cartagena,Web,Urbana,Básico,Baja,D,1
+C2152,38,3431000,13,14,13,1,31,4,10.1,0,Bogotá,Redes sociales,Urbana,Premium,Alta,F,0
+C2153,44,2652000,5,5,34,3,56,7,7.6,2,Cali,Web,Urbana,Básico,Baja,C,1
+C2154,49,3095000,9,9,20,2,33,4,8.6,1,Cali,Tienda física,Urbana,Premium,Media,A,0
+C2155,41,1226000,2,0,43,1,29,5,5.6,1,Cartagena,Referido,Periurbana,Básico,Media,D,1
+C2156,38,3281000,3,3,9,0,38,4,5.6,1,Bogotá,Tienda física,Periurbana,Básico,Media,A,0
+C2157,29,4859000,3,2,20,1,81,5,8.2,1,Barranquilla,Redes sociales,Periurbana,Medio,Media,E,1
+C2158,40,1694000,8,8,12,1,10,4,9.6,1,Cartagena,Tienda física,Urbana,Medio,Alta,A,1
+C2159,38,1904000,4,2,21,0,30,6,8.6,2,Cartagena,Tienda física,Urbana,Básico,Baja,A,0
+C2160,68,2935000,7,7,19,1,33,4,7.3,0,Medellín,Referido,Urbana,Premium,Media,B,1
+C2161,39,2768000,5,3,11,1,35,3,9.3,1,Medellín,Tienda física,Urbana,Medio,Baja,B,0
+C2162,44,5642000,3,3,70,1,58,1,4.1,6,Bogotá,Redes sociales,Urbana,Básico,Media,A,0
+C2163,26,5053000,9,8,83,4,27,14,4.0,1,Bogotá,Web,Rural,Medio,Baja,D,1
+C2164,43,1616000,3,2,21,0,27,6,8.5,4,Bogotá,Referido,Urbana,Básico,Alta,E,0
+C2165,23,5671000,3,4,24,1,102,5,2.8,3,Bogotá,Redes sociales,Urbana,Básico,Media,A,1
+C2166,29,6103000,2,4,14,0,41,6,9.3,3,Barranquilla,Redes sociales,Urbana,Básico,Alta,C,0
+C2167,28,3708000,9,8,12,0,69,6,12.9,6,Medellín,Redes sociales,Urbana,Medio,Media,B,0
+C2168,36,2200000,8,8,33,0,29,4,7.0,2,Cartagena,Redes sociales,Periurbana,Medio,Media,E,1
+C2169,27,3317000,6,8,33,4,19,2,8.2,3,Cartagena,Tienda física,Urbana,Básico,Baja,D,1
+C2170,41,2920000,4,4,6,1,44,3,9.7,4,Cali,Web,Periurbana,Básico,Alta,A,0
+C2171,26,4931000,4,6,46,1,13,4,5.4,0,Cali,Referido,Urbana,Básico,Alta,A,0
+C2172,33,3301000,16,16,24,2,53,2,8.9,1,Cali,Redes sociales,Periurbana,Premium,Media,B,0
+C2173,32,4253000,5,2,35,0,72,8,8.3,5,Medellín,Web,Urbana,Básico,Alta,D,0
+C2174,33,2034000,5,4,20,1,68,10,12.2,4,Cali,Web,Rural,Básico,Baja,B,1
+C2175,36,3059000,7,6,33,2,25,4,8.6,0,Bogotá,Redes sociales,Urbana,Premium,Media,D,0
+C2176,37,3042000,3,4,26,0,5,7,6.0,2,Bogotá,Web,Urbana,Básico,Media,F,0
+C2177,35,2500000,8,5,13,0,45,12,7.3,0,Cartagena,Web,Urbana,Medio,Media,A,0
+C2178,25,2686000,11,10,16,2,20,13,10.3,1,Bogotá,Web,Urbana,Premium,Media,A,0
+C2179,32,918000,7,7,36,1,12,2,4.2,0,Barranquilla,Tienda física,Urbana,Medio,Alta,F,0
+C2180,41,3797000,15,16,11,1,10,7,14.0,2,Bogotá,Tienda física,Periurbana,Premium,Media,B,0
+C2181,32,7152000,4,3,12,1,26,6,8.4,0,Barranquilla,Web,Urbana,Medio,Media,B,0
+C2182,20,4220000,8,10,24,0,24,8,5.1,2,Bogotá,Web,Rural,Medio,Media,C,1
+C2183,40,2844000,15,16,53,0,65,2,8.3,3,Cali,Tienda física,Urbana,Premium,Alta,A,0
+C2184,37,1689000,3,3,33,0,83,2,10.8,5,Medellín,Redes sociales,Urbana,Básico,Media,C,0
+C2185,36,2883000,7,7,21,1,70,6,9.4,1,Barranquilla,Web,Urbana,Medio,Baja,A,1
+C2186,25,7434000,3,2,62,0,79,5,8.1,6,Bogotá,Web,Periurbana,Básico,Media,D,0
+C2187,43,1655000,7,6,20,0,3,3,2.1,2,Bogotá,Web,Urbana,Medio,Alta,E,0
+C2188,47,2369000,8,6,19,1,46,4,5.8,5,Bogotá,Redes sociales,Urbana,Básico,Media,D,0
+C2189,25,3792000,11,11,26,0,73,15,7.2,3,Bogotá,Web,Rural,Premium,Alta,D,0
+C2190,59,5681000,7,7,18,2,27,2,8.5,2,Cali,Tienda física,Urbana,Premium,Media,D,0
+C2191,23,3194000,2,1,29,0,82,5,4.7,2,Cartagena,Tienda física,Urbana,Básico,Alta,E,0
+C2192,19,3378000,2,2,69,0,12,3,7.8,3,Cali,Redes sociales,Periurbana,Básico,Media,E,0
+C2193,47,2641000,5,6,21,4,43,2,6.6,1,Barranquilla,Redes sociales,Periurbana,Medio,Media,C,0
+C2194,34,1606000,3,3,13,0,21,2,7.8,3,Barranquilla,Tienda física,Urbana,Básico,Media,B,0
+C2195,56,2225000,6,10,33,0,64,2,8.9,4,Barranquilla,Referido,Rural,Medio,Alta,F,1
+C2196,44,5376000,5,5,8,1,40,4,4.9,2,Bogotá,Tienda física,Urbana,Básico,Media,C,1
+C2197,50,3442000,5,4,19,1,28,1,9.2,4,Bogotá,Redes sociales,Urbana,Premium,Media,B,0
+C2198,59,2514000,2,4,21,1,88,3,6.2,6,Bogotá,Tienda física,Urbana,Básico,Media,A,0
+C2199,38,900000,7,7,19,1,20,6,8.1,1,Cartagena,Web,Urbana,Medio,Alta,F,0
+C2200,18,4227000,8,8,32,3,58,5,10.8,3,Cartagena,Referido,Urbana,Premium,Media,B,0
+C2201,42,5699000,4,3,17,0,61,4,8.5,6,Barranquilla,Tienda física,Urbana,Básico,Alta,A,0
+C2202,38,1602000,3,4,11,1,27,3,8.0,2,Bogotá,Tienda física,Urbana,Básico,Alta,F,0
+C2203,39,1549000,12,10,24,4,71,6,13.6,1,Cartagena,Web,Urbana,Medio,Baja,A,1
+C2204,52,2646000,2,3,49,0,32,6,13.3,2,Bogotá,Web,Urbana,Básico,Media,D,0
+C2205,35,2333000,4,4,26,1,15,6,7.0,1,Barranquilla,Tienda física,Urbana,Medio,Alta,C,0
+C2206,48,1925000,8,8,19,0,57,4,4.4,5,Cartagena,Redes sociales,Urbana,Premium,Alta,D,0
+C2207,34,6155000,2,2,13,5,27,7,9.9,2,Medellín,Tienda física,Periurbana,Básico,Baja,B,1
+C2208,31,5390000,3,2,35,3,81,5,5.4,5,Barranquilla,Tienda física,Rural,Básico,Baja,C,1
+C2209,37,2459000,3,2,6,0,15,2,5.1,2,Cartagena,Redes sociales,Urbana,Básico,Alta,A,0
+C2210,44,4801000,6,8,19,0,26,7,11.9,1,Barranquilla,Web,Urbana,Medio,Alta,D,0
+C2211,27,2983000,1,1,61,3,84,5,9.3,6,Bogotá,Redes sociales,Periurbana,Básico,Baja,E,1
+C2212,30,2967000,6,5,37,2,82,6,11.4,3,Cali,Referido,Urbana,Medio,Baja,C,1
+C2213,42,4868000,11,12,42,1,11,3,8.1,2,Barranquilla,Tienda física,Urbana,Premium,Media,B,0
+C2214,26,2273000,5,4,59,1,53,7,12.7,0,Barranquilla,Web,Periurbana,Medio,Media,A,1
+C2215,25,1877000,7,6,33,0,44,3,6.8,4,Cali,Redes sociales,Rural,Medio,Media,F,1
+C2216,45,4599000,16,18,68,0,99,5,7.7,3,Bogotá,Tienda física,Rural,Premium,Media,D,0
+C2217,28,2904000,9,11,13,0,38,5,4.7,0,Cartagena,Tienda física,Urbana,Premium,Alta,E,0
+C2218,53,4787000,1,2,24,0,6,10,9.4,4,Medellín,Web,Urbana,Básico,Media,D,1
+C2219,38,3112000,1,3,67,0,81,7,8.8,3,Barranquilla,Redes sociales,Urbana,Básico,Media,B,0
+C2220,44,2088000,10,9,23,2,63,6,13.4,2,Medellín,Redes sociales,Periurbana,Premium,Media,C,0
+C2221,31,1406000,5,3,44,0,25,7,3.8,3,Cartagena,Tienda física,Urbana,Básico,Media,D,0
+C2222,27,3249000,4,3,19,0,61,4,5.3,1,Medellín,Tienda física,Urbana,Básico,Alta,D,0
+C2223,48,2469000,4,4,27,1,44,8,6.3,8,Medellín,Web,Urbana,Básico,Media,B,1
+C2224,27,1523000,7,7,23,0,39,5,10.6,0,Barranquilla,Redes sociales,Rural,Premium,Alta,A,0
+C2225,38,5916000,9,10,12,0,38,6,5.3,3,Cali,Tienda física,Periurbana,Premium,Alta,A,0
+C2226,22,2765000,9,7,21,0,55,2,9.5,2,Medellín,Referido,Rural,Medio,Alta,B,0
+C2227,45,927000,15,15,9,2,5,12,3.5,0,Cali,Web,Urbana,Premium,Media,D,0
+C2228,48,1189000,4,6,12,0,38,3,6.6,2,Cali,Tienda física,Urbana,Medio,Media,C,0
+C2229,32,2338000,10,8,16,0,50,4,2.0,2,Cali,Redes sociales,Urbana,Premium,Media,B,0
+C2230,33,6919000,3,2,19,0,67,4,6.3,2,Bogotá,Redes sociales,Urbana,Básico,Alta,B,0
+C2231,38,4444000,3,3,22,1,63,4,4.5,2,Barranquilla,Web,Urbana,Medio,Alta,B,0
+C2232,27,3543000,3,4,20,0,54,4,7.8,4,Barranquilla,Tienda física,Periurbana,Básico,Media,D,1
+C2233,54,2025000,5,6,24,0,21,3,9.2,1,Barranquilla,Tienda física,Urbana,Medio,Media,D,1
+C2234,28,3345000,5,7,12,1,53,7,6.1,2,Cartagena,Web,Urbana,Medio,Baja,E,0
+C2235,33,1643000,1,2,26,1,46,1,7.4,3,Bogotá,Redes sociales,Urbana,Básico,Media,C,0
+C2236,25,5181000,11,13,62,1,8,10,12.9,1,Bogotá,Web,Periurbana,Premium,Alta,D,0
+C2237,34,3112000,7,8,23,0,36,2,6.4,1,Bogotá,Tienda física,Urbana,Medio,Media,B,0
+C2238,41,3840000,3,1,57,1,27,4,8.5,3,Barranquilla,Redes sociales,Urbana,Medio,Media,A,0
+C2239,38,2369000,5,5,18,0,42,2,2.9,1,Medellín,Tienda física,Urbana,Medio,Alta,D,0
+C2240,55,5363000,11,11,7,3,23,6,10.7,6,Medellín,Web,Urbana,Premium,Baja,E,0
+C2241,37,3803000,1,2,44,1,93,8,5.4,6,Cartagena,Web,Rural,Básico,Media,B,1
+C2242,32,3233000,4,3,5,1,51,7,8.0,2,Bogotá,Referido,Urbana,Medio,Baja,B,0
+C2243,35,1705000,3,3,37,0,84,3,8.5,0,Bogotá,Tienda física,Periurbana,Medio,Media,A,0
+C2244,58,4527000,4,2,23,3,46,1,7.6,2,Barranquilla,Referido,Periurbana,Básico,Baja,F,1
+C2245,42,3750000,8,9,56,1,147,2,12.2,1,Barranquilla,Redes sociales,Periurbana,Medio,Media,B,0
+C2246,33,3167000,2,1,29,0,31,1,8.8,1,Medellín,Tienda física,Urbana,Básico,Alta,D,1
+C2247,29,4361000,5,6,13,0,11,8,6.2,1,Cartagena,Tienda física,Urbana,Medio,Alta,D,0
+C2248,26,2588000,4,5,17,3,102,9,7.2,1,Bogotá,Web,Urbana,Medio,Baja,C,1
+C2249,60,1840000,4,5,43,1,42,0,4.0,2,Bogotá,Redes sociales,Urbana,Medio,Media,A,0
+C2250,55,2405000,4,3,15,0,56,8,7.6,2,Bogotá,Web,Urbana,Básico,Baja,E,1
+C2251,35,1598000,1,0,33,1,50,5,9.9,2,Medellín,Web,Rural,Medio,Media,D,0
+C2252,19,927000,3,3,21,2,18,3,1.0,3,Medellín,Tienda física,Rural,Básico,Baja,C,1
+C2253,36,4720000,3,2,9,0,88,5,8.4,2,Cali,Redes sociales,Urbana,Básico,Media,D,0
+C2254,26,2101000,2,1,37,1,61,4,7.6,5,Cartagena,Redes sociales,Periurbana,Básico,Media,A,0
+C2255,42,2355000,9,7,29,2,15,6,8.8,0,Cali,Redes sociales,Rural,Medio,Media,D,0
+C2256,24,1934000,4,4,29,3,39,3,6.9,2,Bogotá,Redes sociales,Periurbana,Básico,Media,E,1
+C2257,30,2844000,5,5,25,0,38,2,7.9,0,Barranquilla,Redes sociales,Rural,Medio,Alta,A,0
+C2258,31,4009000,4,6,47,1,25,5,5.9,3,Medellín,Tienda física,Rural,Medio,Media,E,0
+C2259,33,2517000,3,1,17,0,27,14,6.0,1,Cartagena,Web,Urbana,Básico,Alta,D,0
+C2260,20,3051000,5,6,42,0,9,4,8.6,1,Medellín,Tienda física,Rural,Básico,Media,A,0
+C2261,24,3320000,7,6,14,1,77,3,5.8,4,Bogotá,Redes sociales,Urbana,Medio,Alta,E,0
+C2262,25,1731000,1,3,21,0,49,4,8.2,2,Bogotá,Referido,Periurbana,Básico,Alta,E,0
+C2263,38,3504000,1,2,24,1,21,2,6.4,0,Barranquilla,Referido,Urbana,Medio,Media,A,0
+C2264,39,2767000,3,3,30,1,30,3,1.0,3,Bogotá,Tienda física,Rural,Básico,Media,B,1
+C2265,66,2618000,2,2,18,1,28,4,4.0,2,Cali,Referido,Rural,Básico,Media,D,0
+C2266,19,3483000,2,1,17,0,51,5,4.6,2,Medellín,Redes sociales,Urbana,Básico,Alta,B,0
+C2267,33,5949000,7,5,20,2,7,5,11.4,4,Bogotá,Web,Urbana,Básico,Baja,F,1
+C2268,38,2951000,16,14,21,0,14,2,9.4,3,Medellín,Redes sociales,Urbana,Premium,Alta,F,0
+C2269,50,4965000,4,4,46,0,41,4,6.5,2,Bogotá,Redes sociales,Urbana,Básico,Alta,A,1
+C2270,34,2745000,2,4,19,1,90,6,10.3,2,Medellín,Referido,Urbana,Básico,Alta,D,0
+C2271,37,3241000,4,3,4,0,43,7,11.5,3,Cartagena,Web,Rural,Medio,Alta,C,0
+C2272,32,2698000,17,15,25,2,33,8,8.5,0,Cartagena,Web,Rural,Premium,Alta,E,0
+C2273,49,3433000,3,1,15,2,19,2,7.8,3,Cali,Referido,Periurbana,Básico,Media,F,1
+C2274,22,3740000,9,13,13,3,30,4,8.3,2,Medellín,Redes sociales,Periurbana,Premium,Baja,A,1
+C2275,51,1429000,4,5,20,0,101,1,9.4,4,Medellín,Redes sociales,Urbana,Básico,Alta,D,0
+C2276,38,2584000,8,5,30,0,5,3,13.1,2,Cali,Referido,Rural,Básico,Alta,C,0
+C2277,44,2926000,3,0,40,0,20,0,7.1,2,Cartagena,Redes sociales,Urbana,Básico,Alta,C,0
+C2278,43,3581000,3,3,34,1,100,9,8.3,2,Medellín,Web,Urbana,Básico,Alta,E,0
+C2279,34,2019000,5,3,19,0,54,8,8.8,2,Bogotá,Redes sociales,Urbana,Básico,Media,C,1
+C2280,30,3353000,5,3,28,1,95,3,6.4,3,Bogotá,Tienda física,Rural,Básico,Alta,A,0
+C2281,32,5965000,8,9,24,1,38,4,6.5,1,Medellín,Tienda física,Urbana,Premium,Media,E,0
+C2282,35,1880000,5,8,39,0,47,9,6.0,3,Cartagena,Referido,Rural,Básico,Media,F,0
+C2283,27,2740000,1,0,13,0,92,6,6.7,1,Cali,Web,Urbana,Básico,Alta,D,0
+C2284,27,1364000,5,5,20,0,31,3,13.6,2,Cali,Referido,Urbana,Básico,Alta,D,1
+C2285,22,1458000,5,8,21,1,41,4,5.9,3,Cartagena,Tienda física,Periurbana,Medio,Media,A,0
+C2286,26,2724000,10,12,13,0,20,2,2.1,1,Cali,Redes sociales,Urbana,Premium,Alta,F,0
+C2287,26,2979000,7,7,18,4,31,6,11.8,0,Medellín,Web,Urbana,Medio,Baja,B,1
+C2288,39,6432000,2,3,15,2,17,2,6.2,0,Medellín,Referido,Urbana,Básico,Baja,C,0
+C2289,25,3581000,3,3,41,1,7,8,7.5,6,Cartagena,Web,Periurbana,Básico,Baja,F,0
+C2290,25,4589000,11,12,13,0,20,4,6.3,2,Bogotá,Tienda física,Urbana,Premium,Media,D,0
+C2291,23,1653000,3,4,19,0,8,4,7.9,1,Medellín,Redes sociales,Urbana,Básico,Media,E,1
+C2292,59,2729000,5,6,20,0,44,7,6.1,3,Cartagena,Redes sociales,Urbana,Medio,Alta,B,1
+C2293,33,3703000,8,8,28,0,24,10,8.2,1,Barranquilla,Web,Urbana,Medio,Media,E,0
+C2294,32,7053000,1,0,5,0,62,7,7.1,1,Cartagena,Web,Urbana,Básico,Alta,C,0
+C2295,50,3385000,8,11,28,0,18,12,8.0,2,Cali,Referido,Urbana,Medio,Alta,D,0
+C2296,27,3111000,3,3,26,0,63,3,5.3,6,Barranquilla,Redes sociales,Urbana,Básico,Media,B,0
+C2297,18,4039000,0,1,24,0,15,0,4.4,1,Barranquilla,Redes sociales,Periurbana,Básico,Media,F,0
+C2298,34,1972000,3,4,61,2,23,4,9.8,0,Medellín,Tienda física,Urbana,Básico,Baja,F,0
+C2299,56,3602000,6,5,34,0,37,4,8.1,0,Bogotá,Tienda física,Urbana,Premium,Alta,D,0
+C2300,35,3338000,5,4,33,1,48,6,8.6,2,Barranquilla,Web,Urbana,Medio,Media,D,1
+C2301,25,4057000,1,0,26,1,62,11,8.1,3,Barranquilla,Tienda física,Rural,Básico,Media,D,0
+C2302,35,3639000,2,0,18,0,37,7,8.6,3,Bogotá,Redes sociales,Urbana,Básico,Media,E,0
+C2303,40,1437000,2,1,81,1,70,11,5.2,4,Cali,Web,Rural,Básico,Media,E,1
+C2304,42,3560000,7,6,34,0,25,1,4.1,2,Cartagena,Referido,Periurbana,Medio,Alta,F,0
+C2305,20,2218000,4,2,8,0,36,4,9.2,1,Cali,Redes sociales,Urbana,Medio,Alta,F,0
+C2306,31,3408000,1,0,27,1,28,0,3.2,2,Medellín,Tienda física,Urbana,Básico,Media,D,0
+C2307,29,2936000,0,0,53,0,4,4,6.2,1,Bogotá,Tienda física,Periurbana,Básico,Media,E,0
+C2308,18,4356000,4,4,28,0,87,2,13.4,4,Cali,Tienda física,Urbana,Medio,Alta,D,1
+C2309,27,1987000,12,14,36,0,18,5,6.1,5,Cartagena,Web,Urbana,Premium,Alta,D,0
+C2310,31,9306000,1,0,16,1,50,3,9.6,4,Bogotá,Tienda física,Periurbana,Básico,Media,D,1
+C2311,44,3347000,9,8,48,0,3,0,12.1,0,Bogotá,Redes sociales,Urbana,Premium,Alta,A,0
+C2312,23,2715000,2,3,14,4,7,16,4.9,5,Cali,Web,Urbana,Básico,Baja,D,0
+C2313,36,4748000,4,1,42,0,3,4,4.4,5,Bogotá,Web,Urbana,Básico,Media,A,0
+C2314,36,4238000,3,1,22,0,6,5,6.7,4,Bogotá,Tienda física,Urbana,Básico,Alta,B,0
+C2315,29,3648000,8,8,28,0,30,8,7.8,0,Bogotá,Web,Periurbana,Premium,Media,D,0
+C2316,46,9273000,7,7,17,0,28,6,10.6,0,Cartagena,Redes sociales,Periurbana,Premium,Alta,B,0
+C2317,27,1201000,0,0,59,1,23,2,9.7,2,Cali,Redes sociales,Rural,Básico,Media,A,0
+C2318,31,2458000,1,3,33,2,15,2,4.0,1,Cali,Tienda física,Urbana,Básico,Alta,C,0
+C2319,42,2193000,6,5,10,0,30,0,8.8,1,Bogotá,Referido,Rural,Premium,Alta,F,0
+C2320,34,3112000,9,11,15,0,30,1,7.7,1,Cartagena,Tienda física,Urbana,Premium,Media,E,0
+C2321,46,4318000,4,3,23,1,47,6,4.7,0,Cartagena,Tienda física,Urbana,Premium,Media,C,0
+C2322,39,2135000,3,3,9,0,17,4,10.1,3,Medellín,Web,Periurbana,Básico,Media,D,0
+C2323,30,6613000,9,8,62,0,27,3,7.0,1,Cali,Referido,Periurbana,Premium,Media,C,0
+C2324,55,3349000,5,5,56,0,20,4,10.7,2,Bogotá,Referido,Urbana,Básico,Media,D,1
+C2325,38,3613000,7,5,10,4,60,6,4.4,0,Cali,Referido,Urbana,Medio,Media,A,1
+C2326,40,3849000,10,10,13,0,12,1,6.1,2,Medellín,Redes sociales,Urbana,Premium,Alta,C,0
+C2327,40,5797000,0,2,31,0,66,4,6.5,3,Barranquilla,Redes sociales,Rural,Básico,Media,C,1
+C2328,43,1879000,1,2,13,0,42,3,1.3,0,Medellín,Tienda física,Urbana,Básico,Media,C,0
+C2329,46,2352000,10,10,74,1,63,2,6.5,4,Bogotá,Redes sociales,Urbana,Premium,Alta,A,0
+C2330,35,2279000,3,4,40,2,17,2,9.9,3,Medellín,Tienda física,Urbana,Básico,Baja,A,0
+C2331,28,3753000,2,5,16,0,19,11,5.1,2,Medellín,Web,Urbana,Básico,Alta,F,1
+C2332,50,1507000,1,5,9,0,20,7,6.2,7,Barranquilla,Web,Periurbana,Básico,Media,F,1
+C2333,18,1786000,11,10,14,0,38,3,7.1,1,Medellín,Redes sociales,Rural,Premium,Alta,E,0
+C2334,35,1640000,4,5,21,2,26,6,8.2,4,Cali,Web,Urbana,Básico,Media,C,1
+C2335,47,3502000,9,7,28,0,9,5,3.7,3,Medellín,Web,Urbana,Medio,Alta,D,0
+C2336,36,2767000,6,8,13,0,30,3,7.5,2,Cali,Referido,Urbana,Básico,Media,D,1
+C2337,42,2026000,10,8,31,3,16,6,6.8,3,Barranquilla,Web,Urbana,Medio,Baja,A,0
+C2338,42,1191000,7,8,29,0,24,4,3.7,2,Medellín,Tienda física,Rural,Premium,Alta,B,0
+C2339,45,1262000,3,1,42,1,30,5,10.9,4,Medellín,Web,Rural,Básico,Media,D,1
+C2340,43,9337000,2,4,16,2,98,4,6.0,3,Barranquilla,Redes sociales,Periurbana,Básico,Media,A,0
+C2341,47,2636000,8,9,34,0,10,5,4.5,1,Medellín,Web,Urbana,Medio,Media,A,0
+C2342,24,1922000,1,2,33,0,26,1,9.2,3,Bogotá,Redes sociales,Urbana,Básico,Alta,B,1
+C2343,40,3316000,5,6,22,1,84,0,8.3,1,Cali,Tienda física,Urbana,Básico,Baja,F,0
+C2344,30,900000,6,6,14,1,25,13,7.6,2,Barranquilla,Web,Urbana,Medio,Media,D,0
+C2345,39,8914000,7,7,16,0,18,6,8.6,3,Medellín,Tienda física,Rural,Básico,Media,E,1
+C2346,30,6058000,6,3,49,0,89,4,3.8,5,Cali,Redes sociales,Urbana,Básico,Media,D,0
+C2347,38,6068000,4,3,42,0,40,3,3.5,1,Cali,Tienda física,Urbana,Medio,Alta,F,0
+C2348,20,3296000,4,6,34,0,112,2,8.3,3,Bogotá,Tienda física,Urbana,Premium,Alta,A,0
+C2349,32,8923000,12,11,40,3,21,9,8.1,0,Cartagena,Web,Urbana,Premium,Baja,D,0
+C2350,30,1989000,3,4,28,2,20,2,5.5,1,Bogotá,Tienda física,Urbana,Básico,Baja,F,0
+C2351,25,1572000,8,8,53,0,25,3,7.3,3,Bogotá,Referido,Urbana,Medio,Media,E,1
+C2352,52,3760000,0,0,61,0,21,5,11.9,2,Cartagena,Web,Urbana,Básico,Alta,D,0
+C2353,37,2792000,8,5,31,0,39,8,10.4,1,Barranquilla,Web,Rural,Medio,Alta,F,0
+C2354,27,1421000,2,0,38,0,38,4,15.3,0,Barranquilla,Tienda física,Rural,Medio,Media,C,0
+C2355,55,1723000,2,3,16,0,19,5,7.8,3,Barranquilla,Referido,Urbana,Básico,Baja,C,0
+C2356,43,3592000,22,22,14,2,33,9,9.0,3,Bogotá,Web,Urbana,Premium,Media,E,0
+C2357,34,4153000,1,0,18,1,25,6,5.3,4,Bogotá,Tienda física,Urbana,Básico,Media,A,0
+C2358,42,5500000,3,2,26,1,43,9,12.2,0,Cartagena,Web,Rural,Medio,Alta,A,0
+C2359,18,1604000,4,4,16,3,15,5,3.6,1,Cali,Redes sociales,Urbana,Básico,Media,C,0

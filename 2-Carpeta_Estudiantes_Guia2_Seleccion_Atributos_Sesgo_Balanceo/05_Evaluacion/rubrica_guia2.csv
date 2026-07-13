@@ -1,0 +1,6 @@
+﻿Criterio,Bajo,Básico,Alto,Superior
+Identificación de variables,"Confunde objetivo, predictoras e identificadoras",Clasifica la mayoría correctamente,Clasifica correctamente y justifica riesgos,"Clasifica, justifica y documenta con criterio técnico"
+Selección de atributos,Selecciona sin evidencia,Usa un criterio básico,Combina criterios técnicos,"Integra negocio, estadística, ética y modelo"
+Revisión de sesgo,No revisa grupos,Calcula distribuciones simples,Interpreta diferencias por grupos,Propone decisiones responsables y documentadas
+Balanceo,No identifica desbalance,Identifica desbalance,Balancea entrenamiento correctamente,Evita fuga y compara impacto antes/después
+Documentación,Incompleta,Describe pasos generales,Documenta decisiones y evidencias,"Informe trazable, claro y reproducible"

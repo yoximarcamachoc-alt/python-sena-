@@ -1,0 +1,13 @@
+﻿Criterio de verificación,Cumple/Observación
+Identifica variable objetivo,
+Excluye ID_Cliente de predictores,
+Clasifica Segmento como ordinal,
+Clasifica Satisfaccion como ordinal,
+Revisa distribución de Abandono,
+Analiza representatividad por al menos una variable de grupo,
+Aplica selección de atributos con al menos dos criterios,
+Detecta variables redundantes,
+Balancea solo el conjunto de entrenamiento,
+Conserva el conjunto de prueba sin balancear,
+Exporta datasets finales,
+Documenta decisiones técnicas,

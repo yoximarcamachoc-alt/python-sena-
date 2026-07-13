@@ -1,0 +1,14 @@
+﻿Variable,Descripción,Tipo,Tratamiento recomendado
+ID_Cliente,Identificador único del cliente,Categórica identificadora,Excluir del modelo
+Edad,Edad del cliente en años,Numérica discreta,Escalamiento estándar
+IngresoMensual,Ingreso mensual estimado del cliente,Numérica continua,Escalamiento robusto por posibles valores extremos
+CantidadCompras,Número histórico de compras,Numérica discreta,Escalamiento estándar
+Ciudad,Ciudad principal del cliente,Categórica nominal,One-Hot Encoding
+Genero,Género reportado por el cliente,Categórica nominal,One-Hot Encoding
+Segmento,Segmento comercial del cliente,Categórica nominal,One-Hot Encoding
+NivelSatisfaccion,Nivel de satisfacción reportado,Categórica ordinal,Codificación ordinal: Bajo < Medio < Alto
+AntiguedadMeses,Meses de antigüedad del cliente,Numérica discreta,Escalamiento estándar
+DiasUltimaCompra,Días desde la última compra,Numérica discreta,Escalamiento estándar
+GastoPromedio,Gasto promedio del cliente,Numérica continua,Escalamiento robusto por posibles valores extremos
+CanalPreferido,Canal principal de interacción,Categórica nominal,One-Hot Encoding
+Compra,"Variable objetivo: 1 compró, 0 no compró",Binaria objetivo,No transformar como predictora

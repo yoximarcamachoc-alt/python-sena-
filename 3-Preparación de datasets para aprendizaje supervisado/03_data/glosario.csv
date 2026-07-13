@@ -1,0 +1,22 @@
+﻿Concepto,Definición
+Aprendizaje automático,Campo de la IA donde un sistema aprende patrones a partir de datos.
+Aprendizaje supervisado,Tipo de aprendizaje donde el modelo aprende usando ejemplos con respuesta conocida.
+Clasificación,"Problema supervisado donde la respuesta pertenece a categorías, por ejemplo abandono sí/no."
+Regresión,"Problema supervisado donde la respuesta es un número continuo, por ejemplo ventas futuras."
+Variable objetivo,Columna que se quiere predecir; en esta guía es Abandono.
+Variable predictora,Columna usada como entrada para explicar o predecir la variable objetivo.
+X,Conjunto de variables predictoras.
+y,Variable objetivo o respuesta.
+Entrenamiento,Fase donde el modelo aprende patrones usando datos conocidos.
+Prueba,Fase donde el modelo se evalúa con datos que no usó para aprender.
+Fuga de información,Error donde el modelo recibe información que no debería conocer durante el entrenamiento.
+Pipeline,Secuencia ordenada y reproducible de preprocesamiento y modelado.
+Matriz de confusión,Tabla que resume aciertos y errores de un modelo de clasificación.
+Accuracy,Proporción total de predicciones correctas.
+Precision,"De los casos que el modelo marcó como positivos, cuántos eran realmente positivos."
+Recall,"De los positivos reales, cuántos logró detectar el modelo."
+F1-score,Promedio armónico entre precision y recall.
+Sobreajuste,Cuando un modelo memoriza el entrenamiento y falla con datos nuevos.
+Modelo base,Primer modelo usado como punto de comparación.
+Clasificador,Modelo que asigna una clase a cada registro.
+Revisión humana,Validación de resultados por una persona antes de tomar decisiones.

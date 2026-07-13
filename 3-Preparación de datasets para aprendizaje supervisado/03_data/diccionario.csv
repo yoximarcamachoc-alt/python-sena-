@@ -1,0 +1,19 @@
+﻿Variable,Descripción,Tipo de variable,Tipo de dato esperado,Tratamiento recomendado
+ID_Cliente,Identificador único del cliente.,Identificadora,Texto,Excluir del modelamiento; conservar solo para trazabilidad.
+Edad,Edad del cliente en años.,Numérica discreta,Entero,Predictora candidata; revisar distribución.
+IngresoMensual,Ingreso mensual estimado.,Numérica continua,Entero,Predictora candidata; escalar dentro del pipeline si el modelo lo requiere.
+CantidadCompras,Cantidad histórica de compras.,Numérica discreta,Entero,Predictora candidata; revisar relación con abandono.
+ComprasUltimos12M,Compras realizadas durante los últimos 12 meses.,Numérica discreta,Entero,Predictora candidata; puede reflejar comportamiento reciente.
+AntiguedadMeses,Meses de relación con la empresa.,Numérica discreta,Entero,Predictora candidata; revisar si clientes nuevos o antiguos abandonan más.
+QuejasUltimos6M,Número de quejas recientes.,Numérica discreta,Entero,Predictora candidata importante; puede asociarse con insatisfacción.
+DiasDesdeUltimaCompra,Días desde la última compra.,Numérica discreta,Entero,Predictora candidata crítica para abandono.
+VisitasWebUltimoMes,Número de visitas web recientes.,Numérica discreta,Entero,Predictora candidata; representa interacción digital.
+TiempoPromedioSesionMin,Promedio de minutos por sesión.,Numérica continua,Decimal,Predictora candidata; escalar dentro del pipeline.
+CuponesUsados,Cantidad de cupones usados.,Numérica discreta,Entero,Predictora candidata; representa respuesta a promociones.
+Ciudad,Ciudad del cliente.,Categórica nominal,Texto,Codificación nominal si se usa como predictor.
+CanalPreferido,Canal de interacción principal.,Categórica nominal,Texto,Codificación nominal si se usa como predictor.
+ZonaResidencia,Zona de residencia.,Categórica nominal / revisión de representatividad,Texto,Usar con cautela; revisar sesgo y justificar si se usa.
+Segmento,Nivel comercial del cliente.,Categórica ordinal,Texto,Orden correcto: Básico < Medio < Premium. No tratar como nominal.
+Satisfaccion,Nivel de satisfacción declarado.,Categórica ordinal,Texto,Orden correcto: Baja < Media < Alta. No tratar como nominal.
+CodigoCampania,Código de campaña comercial.,Categórica nominal de cardinalidad relativa,Texto,Revisar pertinencia; puede aportar ruido si no es estable.
+Abandono,"Variable objetivo: 1 si el cliente abandonó, 0 si no.",Objetivo binaria,Entero 0/1,No usar como predictor; usar para entrenamiento y evaluación supervisada.

@@ -1,0 +1,6 @@
+﻿Criterio,Evidencia esperada,Peso
+"Identifica X, y y variables excluidas","Diferencia predictoras, objetivo e identificadores",20%
+Evita fuga de información,Preprocesa dentro de pipeline y no ajusta con prueba,20%
+Entrena modelos supervisados básicos,Ejecuta al menos dos modelos y registra resultados,20%
+Interpreta métricas,"Explica accuracy, precision, recall, F1 y matriz de confusión",25%
+Comunica límites y ética,Incluye revisión humana y límites de uso,15%
